@@ -1,6 +1,6 @@
 {
  "id": "pl.dkacz.katalogi-domowe",
- "version": "1.1.0",
+ "version": "1.2.0",
  "name": "Katalogi domowe",
  "description": "Domowe listy filmów i seriali.",
  "resources": [
@@ -15,6 +15,11 @@
    "type": "movie",
    "id": "kolekcja-filmy",
    "name": "Kino ambitne: moja kolekcja"
+  },
+  {
+   "type": "movie",
+   "id": "scorsese",
+   "name": "Martin Scorsese: wszystkie filmy"
   },
   {
    "type": "series",
