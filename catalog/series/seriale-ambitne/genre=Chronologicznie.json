@@ -1,0 +1,90 @@
+{
+ "metas": [
+  {
+   "id": "tt0070644",
+   "type": "series",
+   "name": "Scenes from a Marriage",
+   "poster": "https://images.metahub.space/poster/medium/tt0070644/img",
+   "description": "Rotten Tomatoes 91%"
+  },
+  {
+   "id": "tt0080196",
+   "type": "series",
+   "name": "Berlin Alexanderplatz",
+   "poster": "https://images.metahub.space/poster/medium/tt0080196/img"
+  },
+  {
+   "id": "tt0092337",
+   "type": "series",
+   "name": "Dekalog",
+   "poster": "https://images.metahub.space/poster/medium/tt0092337/img"
+  },
+  {
+   "id": "tt7366338",
+   "type": "series",
+   "name": "Chernobyl",
+   "poster": "https://images.metahub.space/poster/medium/tt7366338/img",
+   "description": "Metacritic 82, Rotten Tomatoes 95%"
+  },
+  {
+   "id": "tt0098936",
+   "type": "series",
+   "name": "Twin Peaks",
+   "poster": "https://images.metahub.space/poster/medium/tt0098936/img"
+  },
+  {
+   "id": "tt0108906",
+   "type": "series",
+   "name": "The Kingdom",
+   "poster": "https://images.metahub.space/poster/medium/tt0108906/img"
+  },
+  {
+   "id": "tt0306414",
+   "type": "series",
+   "name": "The Wire",
+   "poster": "https://images.metahub.space/poster/medium/tt0306414/img"
+  },
+  {
+   "id": "tt0141842",
+   "type": "series",
+   "name": "The Sopranos",
+   "poster": "https://images.metahub.space/poster/medium/tt0141842/img"
+  },
+  {
+   "id": "tt0804503",
+   "type": "series",
+   "name": "Mad Men",
+   "poster": "https://images.metahub.space/poster/medium/tt0804503/img"
+  },
+  {
+   "id": "tt2699128",
+   "type": "series",
+   "name": "The Leftovers",
+   "poster": "https://images.metahub.space/poster/medium/tt2699128/img"
+  },
+  {
+   "id": "tt5687612",
+   "type": "series",
+   "name": "Fleabag",
+   "poster": "https://images.metahub.space/poster/medium/tt5687612/img"
+  },
+  {
+   "id": "tt11280740",
+   "type": "series",
+   "name": "Severance",
+   "poster": "https://images.metahub.space/poster/medium/tt11280740/img"
+  },
+  {
+   "id": "tt7660850",
+   "type": "series",
+   "name": "Succession",
+   "poster": "https://images.metahub.space/poster/medium/tt7660850/img"
+  },
+  {
+   "id": "tt3032476",
+   "type": "series",
+   "name": "Better Call Saul",
+   "poster": "https://images.metahub.space/poster/medium/tt3032476/img"
+  }
+ ]
+}

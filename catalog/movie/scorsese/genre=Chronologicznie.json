@@ -1,0 +1,310 @@
+{
+ "metas": [
+  {
+   "id": "tt0057680",
+   "type": "movie",
+   "name": "Co taka miła dziewczyna jak ty robi w takim miejscu?",
+   "poster": "https://images.metahub.space/poster/medium/tt0057680/img"
+  },
+  {
+   "id": "tt0058242",
+   "type": "movie",
+   "name": "It's Not Just You",
+   "poster": "https://images.metahub.space/poster/medium/tt0058242/img"
+  },
+  {
+   "id": "tt0061402",
+   "type": "movie",
+   "name": "The Big Shave",
+   "poster": "https://images.metahub.space/poster/medium/tt0061402/img"
+  },
+  {
+   "id": "tt0063803",
+   "type": "movie",
+   "name": "Kto puka do moich drzwi?",
+   "poster": "https://images.metahub.space/poster/medium/tt0063803/img",
+   "description": "Rotten Tomatoes 71%"
+  },
+  {
+   "id": "tt0068309",
+   "type": "movie",
+   "name": "Wagon towarowy Bertha",
+   "poster": "https://images.metahub.space/poster/medium/tt0068309/img",
+   "description": "Rotten Tomatoes 54%"
+  },
+  {
+   "id": "tt0070379",
+   "type": "movie",
+   "name": "Ulice nędzy",
+   "poster": "https://images.metahub.space/poster/medium/tt0070379/img",
+   "description": "Metacritic 96, Rotten Tomatoes 92%"
+  },
+  {
+   "id": "tt0071680",
+   "type": "movie",
+   "name": "Italianamerican",
+   "poster": "https://images.metahub.space/poster/medium/tt0071680/img"
+  },
+  {
+   "id": "tt0071115",
+   "type": "movie",
+   "name": "Alicja już tu nie mieszka",
+   "poster": "https://images.metahub.space/poster/medium/tt0071115/img",
+   "description": "Metacritic 78, Rotten Tomatoes 92%"
+  },
+  {
+   "id": "tt0075314",
+   "type": "movie",
+   "name": "Taksówkarz",
+   "poster": "https://images.metahub.space/poster/medium/tt0075314/img",
+   "description": "Metacritic 94, Rotten Tomatoes 89%"
+  },
+  {
+   "id": "tt0076451",
+   "type": "movie",
+   "name": "New York, New York",
+   "poster": "https://images.metahub.space/poster/medium/tt0076451/img",
+   "description": "Rotten Tomatoes 57%"
+  },
+  {
+   "id": "tt0077838",
+   "type": "movie",
+   "name": "The Last Waltz",
+   "poster": "https://images.metahub.space/poster/medium/tt0077838/img",
+   "description": "Metacritic 84, Rotten Tomatoes 98%"
+  },
+  {
+   "id": "tt0077157",
+   "type": "movie",
+   "name": "American Boy: A Profile of Steven Prince",
+   "poster": "https://images.metahub.space/poster/medium/tt0077157/img",
+   "description": "Rotten Tomatoes 63%"
+  },
+  {
+   "id": "tt0081398",
+   "type": "movie",
+   "name": "Wściekły byk",
+   "poster": "https://images.metahub.space/poster/medium/tt0081398/img",
+   "description": "Metacritic 90, Rotten Tomatoes 92%"
+  },
+  {
+   "id": "tt0085794",
+   "type": "movie",
+   "name": "Król komedii",
+   "poster": "https://images.metahub.space/poster/medium/tt0085794/img",
+   "description": "Metacritic 73, Rotten Tomatoes 89%"
+  },
+  {
+   "id": "tt0088680",
+   "type": "movie",
+   "name": "Po godzinach",
+   "poster": "https://images.metahub.space/poster/medium/tt0088680/img",
+   "description": "Metacritic 89, Rotten Tomatoes 90%"
+  },
+  {
+   "id": "tt0090863",
+   "type": "movie",
+   "name": "Kolor pieniędzy",
+   "poster": "https://images.metahub.space/poster/medium/tt0090863/img",
+   "description": "Metacritic 77, Rotten Tomatoes 87%"
+  },
+  {
+   "id": "tt0095497",
+   "type": "movie",
+   "name": "Ostatnie kuszenie Chrystusa",
+   "poster": "https://images.metahub.space/poster/medium/tt0095497/img",
+   "description": "Metacritic 80, Rotten Tomatoes 82%"
+  },
+  {
+   "id": "tt0097965",
+   "type": "movie",
+   "name": "Nowojorskie opowieści",
+   "poster": "https://images.metahub.space/poster/medium/tt0097965/img",
+   "description": "Rotten Tomatoes 76%"
+  },
+  {
+   "id": "tt0099685",
+   "type": "movie",
+   "name": "Chłopcy z ferajny",
+   "poster": "https://images.metahub.space/poster/medium/tt0099685/img",
+   "description": "Metacritic 92, Rotten Tomatoes 93%"
+  },
+  {
+   "id": "tt0101540",
+   "type": "movie",
+   "name": "Przylądek strachu",
+   "poster": "https://images.metahub.space/poster/medium/tt0101540/img",
+   "description": "Metacritic 73, Rotten Tomatoes 75%"
+  },
+  {
+   "id": "tt0106226",
+   "type": "movie",
+   "name": "Wiek niewinności",
+   "poster": "https://images.metahub.space/poster/medium/tt0106226/img",
+   "description": "Metacritic 90, Rotten Tomatoes 87%"
+  },
+  {
+   "id": "tt0112120",
+   "type": "movie",
+   "name": "A Personal Journey with Martin Scorsese Through American Movies",
+   "poster": "https://images.metahub.space/poster/medium/tt0112120/img",
+   "description": "Rotten Tomatoes 100%"
+  },
+  {
+   "id": "tt0112641",
+   "type": "movie",
+   "name": "Kasyno",
+   "poster": "https://images.metahub.space/poster/medium/tt0112641/img",
+   "description": "Metacritic 73, Rotten Tomatoes 79%"
+  },
+  {
+   "id": "tt0119485",
+   "type": "movie",
+   "name": "Kundun - życie Dalaj Lamy",
+   "poster": "https://images.metahub.space/poster/medium/tt0119485/img",
+   "description": "Metacritic 74, Rotten Tomatoes 75%"
+  },
+  {
+   "id": "tt0173772",
+   "type": "movie",
+   "name": "My Voyage to Italy",
+   "poster": "https://images.metahub.space/poster/medium/tt0173772/img",
+   "description": "Rotten Tomatoes 100%"
+  },
+  {
+   "id": "tt0163988",
+   "type": "movie",
+   "name": "Ciemna strona miasta",
+   "poster": "https://images.metahub.space/poster/medium/tt0163988/img",
+   "description": "Metacritic 72, Rotten Tomatoes 72%"
+  },
+  {
+   "id": "tt0217505",
+   "type": "movie",
+   "name": "Gangi Nowego Jorku",
+   "poster": "https://images.metahub.space/poster/medium/tt0217505/img",
+   "description": "Metacritic 72, Rotten Tomatoes 72%"
+  },
+  {
+   "id": "tt0338751",
+   "type": "movie",
+   "name": "Aviator",
+   "poster": "https://images.metahub.space/poster/medium/tt0338751/img",
+   "description": "Metacritic 77, Rotten Tomatoes 86%"
+  },
+  {
+   "id": "tt0367555",
+   "type": "movie",
+   "name": "No Direction Home",
+   "poster": "https://images.metahub.space/poster/medium/tt0367555/img",
+   "description": "Rotten Tomatoes 88%"
+  },
+  {
+   "id": "tt0407887",
+   "type": "movie",
+   "name": "Infiltracja",
+   "poster": "https://images.metahub.space/poster/medium/tt0407887/img",
+   "description": "Metacritic 85, Rotten Tomatoes 91%"
+  },
+  {
+   "id": "tt1151319",
+   "type": "movie",
+   "name": "The Key to Reserva",
+   "poster": "https://images.metahub.space/poster/medium/tt1151319/img"
+  },
+  {
+   "id": "tt0893382",
+   "type": "movie",
+   "name": "Rolling Stones w blasku świateł",
+   "poster": "https://images.metahub.space/poster/medium/tt0893382/img",
+   "description": "Metacritic 76, Rotten Tomatoes 86%"
+  },
+  {
+   "id": "tt1130884",
+   "type": "movie",
+   "name": "Wyspa tajemnic",
+   "poster": "https://images.metahub.space/poster/medium/tt1130884/img",
+   "description": "Metacritic 63, Rotten Tomatoes 68%"
+  },
+  {
+   "id": "tt0808245",
+   "type": "movie",
+   "name": "A Letter to Elia",
+   "poster": "https://images.metahub.space/poster/medium/tt0808245/img"
+  },
+  {
+   "id": "tt1734477",
+   "type": "movie",
+   "name": "Public Speaking",
+   "poster": "https://images.metahub.space/poster/medium/tt1734477/img",
+   "description": "Rotten Tomatoes 92%"
+  },
+  {
+   "id": "tt1113829",
+   "type": "movie",
+   "name": "George Harrison: Living in the Material World",
+   "poster": "https://images.metahub.space/poster/medium/tt1113829/img",
+   "description": "Rotten Tomatoes 87%"
+  },
+  {
+   "id": "tt0970179",
+   "type": "movie",
+   "name": "Hugo i jego wynalazek",
+   "poster": "https://images.metahub.space/poster/medium/tt0970179/img",
+   "description": "Metacritic 83, Rotten Tomatoes 93%"
+  },
+  {
+   "id": "tt0993846",
+   "type": "movie",
+   "name": "Wilk z Wall Street",
+   "poster": "https://images.metahub.space/poster/medium/tt0993846/img",
+   "description": "Metacritic 75, Rotten Tomatoes 80%"
+  },
+  {
+   "id": "tt3510820",
+   "type": "movie",
+   "name": "The 50 Year Argument",
+   "poster": "https://images.metahub.space/poster/medium/tt3510820/img",
+   "description": "Rotten Tomatoes 78%"
+  },
+  {
+   "id": "tt0490215",
+   "type": "movie",
+   "name": "Milczenie",
+   "poster": "https://images.metahub.space/poster/medium/tt0490215/img",
+   "description": "Metacritic 79, Rotten Tomatoes 83%"
+  },
+  {
+   "id": "tt9577852",
+   "type": "movie",
+   "name": "Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese",
+   "poster": "https://images.metahub.space/poster/medium/tt9577852/img"
+  },
+  {
+   "id": "tt11353562",
+   "type": "movie",
+   "name": "The Irishman: In Conversation",
+   "poster": "https://images.metahub.space/poster/medium/tt11353562/img"
+  },
+  {
+   "id": "tt1302006",
+   "type": "movie",
+   "name": "Irlandczyk",
+   "poster": "https://images.metahub.space/poster/medium/tt1302006/img",
+   "description": "Metacritic 94, Rotten Tomatoes 95%"
+  },
+  {
+   "id": "tt5537002",
+   "type": "movie",
+   "name": "Czas krwawego księżyca",
+   "poster": "https://images.metahub.space/poster/medium/tt5537002/img",
+   "description": "Metacritic 89, Rotten Tomatoes 93%"
+  },
+  {
+   "id": "tt13660958",
+   "type": "series",
+   "name": "Pretend It's a City",
+   "poster": "https://images.metahub.space/poster/medium/tt13660958/img"
+  }
+ ]
+}

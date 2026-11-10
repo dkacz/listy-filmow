@@ -4,13 +4,15 @@
    "id": "tt0052080",
    "type": "movie",
    "name": "Ashes and Diamonds",
-   "poster": "https://images.metahub.space/poster/medium/tt0052080/img"
+   "poster": "https://images.metahub.space/poster/medium/tt0052080/img",
+   "description": "Rotten Tomatoes 96%"
   },
   {
    "id": "tt0056291",
    "type": "movie",
    "name": "Knife in the Water",
-   "poster": "https://images.metahub.space/poster/medium/tt0056291/img"
+   "poster": "https://images.metahub.space/poster/medium/tt0056291/img",
+   "description": "Rotten Tomatoes 97%"
   },
   {
    "id": "tt0055153",
@@ -34,31 +36,36 @@
    "id": "tt0075902",
    "type": "movie",
    "name": "Man of Marble",
-   "poster": "https://images.metahub.space/poster/medium/tt0075902/img"
+   "poster": "https://images.metahub.space/poster/medium/tt0075902/img",
+   "description": "Rotten Tomatoes 75%"
   },
   {
    "id": "tt0084549",
    "type": "movie",
    "name": "Blind Chance",
-   "poster": "https://images.metahub.space/poster/medium/tt0084549/img"
+   "poster": "https://images.metahub.space/poster/medium/tt0084549/img",
+   "description": "Rotten Tomatoes 73%"
   },
   {
    "id": "tt0101765",
    "type": "movie",
    "name": "The Double Life of Véronique",
-   "poster": "https://images.metahub.space/poster/medium/tt0101765/img"
+   "poster": "https://images.metahub.space/poster/medium/tt0101765/img",
+   "description": "Metacritic 86, Rotten Tomatoes 86%"
   },
   {
    "id": "tt0095468",
    "type": "movie",
    "name": "A Short Film About Killing",
-   "poster": "https://images.metahub.space/poster/medium/tt0095468/img"
+   "poster": "https://images.metahub.space/poster/medium/tt0095468/img",
+   "description": "Rotten Tomatoes 91%"
   },
   {
    "id": "tt0095467",
    "type": "movie",
    "name": "A Short Film About Love",
-   "poster": "https://images.metahub.space/poster/medium/tt0095467/img"
+   "poster": "https://images.metahub.space/poster/medium/tt0095467/img",
+   "description": "Rotten Tomatoes 100%"
   },
   {
    "id": "tt0066289",
@@ -88,13 +95,15 @@
    "id": "tt2718492",
    "type": "movie",
    "name": "Ida",
-   "poster": "https://images.metahub.space/poster/medium/tt2718492/img"
+   "poster": "https://images.metahub.space/poster/medium/tt2718492/img",
+   "description": "Metacritic 91, Rotten Tomatoes 95%"
   },
   {
    "id": "tt6543652",
    "type": "movie",
    "name": "Cold War",
-   "poster": "https://images.metahub.space/poster/medium/tt6543652/img"
+   "poster": "https://images.metahub.space/poster/medium/tt6543652/img",
+   "description": "Metacritic 90, Rotten Tomatoes 92%"
   },
   {
    "id": "tt0070217",
@@ -106,7 +115,8 @@
    "id": "tt0078763",
    "type": "movie",
    "name": "Camera Buff",
-   "poster": "https://images.metahub.space/poster/medium/tt0078763/img"
+   "poster": "https://images.metahub.space/poster/medium/tt0078763/img",
+   "description": "Rotten Tomatoes 90%"
   },
   {
    "id": "tt0053176",
@@ -118,7 +128,8 @@
    "id": "tt0050585",
    "type": "movie",
    "name": "Kanal",
-   "poster": "https://images.metahub.space/poster/medium/tt0050585/img"
+   "poster": "https://images.metahub.space/poster/medium/tt0050585/img",
+   "description": "Rotten Tomatoes 100%"
   },
   {
    "id": "tt0060401",
@@ -130,7 +141,8 @@
    "id": "tt8649186",
    "type": "movie",
    "name": "Corpus Christi",
-   "poster": "https://images.metahub.space/poster/medium/tt8649186/img"
+   "poster": "https://images.metahub.space/poster/medium/tt8649186/img",
+   "description": "Rotten Tomatoes 98%"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "id": "pl.dkacz.katalogi-domowe",
- "version": "1.2.0",
+ "version": "1.3.0",
  "name": "Katalogi domowe",
  "description": "Domowe listy filmów i seriali.",
  "resources": [
@@ -14,37 +14,135 @@
   {
    "type": "movie",
    "id": "kolekcja-filmy",
-   "name": "Kino ambitne: moja kolekcja"
+   "name": "Kino ambitne: moja kolekcja",
+   "extra": [
+    {
+     "name": "genre",
+     "options": [
+      "Metacritic",
+      "Rotten Tomatoes",
+      "Chronologicznie"
+     ],
+     "isRequired": false
+    }
+   ],
+   "extraSupported": [
+    "genre"
+   ]
   },
   {
    "type": "movie",
    "id": "scorsese",
-   "name": "Martin Scorsese: wszystkie filmy"
+   "name": "Martin Scorsese: wszystkie filmy",
+   "extra": [
+    {
+     "name": "genre",
+     "options": [
+      "Metacritic",
+      "Rotten Tomatoes",
+      "Chronologicznie"
+     ],
+     "isRequired": false
+    }
+   ],
+   "extraSupported": [
+    "genre"
+   ]
   },
   {
    "type": "series",
    "id": "seriale-ambitne",
-   "name": "Seriale ambitne"
+   "name": "Seriale ambitne",
+   "extra": [
+    {
+     "name": "genre",
+     "options": [
+      "Metacritic",
+      "Rotten Tomatoes",
+      "Chronologicznie"
+     ],
+     "isRequired": false
+    }
+   ],
+   "extraSupported": [
+    "genre"
+   ]
   },
   {
    "type": "movie",
    "id": "sight-and-sound",
-   "name": "Klasyka do nadrobienia (Sight and Sound 2022)"
+   "name": "Klasyka do nadrobienia (Sight and Sound 2022)",
+   "extra": [
+    {
+     "name": "genre",
+     "options": [
+      "Metacritic",
+      "Rotten Tomatoes",
+      "Chronologicznie"
+     ],
+     "isRequired": false
+    }
+   ],
+   "extraSupported": [
+    "genre"
+   ]
   },
   {
    "type": "movie",
    "id": "kino-polskie",
-   "name": "Klasyka kina polskiego"
+   "name": "Klasyka kina polskiego",
+   "extra": [
+    {
+     "name": "genre",
+     "options": [
+      "Metacritic",
+      "Rotten Tomatoes",
+      "Chronologicznie"
+     ],
+     "isRequired": false
+    }
+   ],
+   "extraSupported": [
+    "genre"
+   ]
   },
   {
    "type": "series",
    "id": "dzieci-seriale",
-   "name": "Dla dzieci: seriale z polskim dubbingiem"
+   "name": "Dla dzieci: seriale z polskim dubbingiem",
+   "extra": [
+    {
+     "name": "genre",
+     "options": [
+      "Metacritic",
+      "Rotten Tomatoes",
+      "Chronologicznie"
+     ],
+     "isRequired": false
+    }
+   ],
+   "extraSupported": [
+    "genre"
+   ]
   },
   {
    "type": "movie",
    "id": "dzieci-filmy",
-   "name": "Dla dzieci: filmy z polskim dubbingiem"
+   "name": "Dla dzieci: filmy z polskim dubbingiem",
+   "extra": [
+    {
+     "name": "genre",
+     "options": [
+      "Metacritic",
+      "Rotten Tomatoes",
+      "Chronologicznie"
+     ],
+     "isRequired": false
+    }
+   ],
+   "extraSupported": [
+    "genre"
+   ]
   }
  ]
 }

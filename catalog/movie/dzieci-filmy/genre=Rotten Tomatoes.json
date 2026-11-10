@@ -1,0 +1,186 @@
+{
+ "metas": [
+  {
+   "id": "tt0114709",
+   "type": "movie",
+   "name": "Toy Story",
+   "poster": "https://images.metahub.space/poster/medium/tt0114709/img",
+   "description": "Metacritic 96, Rotten Tomatoes 100%"
+  },
+  {
+   "id": "tt0266543",
+   "type": "movie",
+   "name": "Finding Nemo",
+   "poster": "https://images.metahub.space/poster/medium/tt0266543/img",
+   "description": "Metacritic 90, Rotten Tomatoes 99%"
+  },
+  {
+   "id": "tt4468740",
+   "type": "movie",
+   "name": "Paddington 2",
+   "poster": "https://images.metahub.space/poster/medium/tt4468740/img",
+   "description": "Metacritic 88, Rotten Tomatoes 99%"
+  },
+  {
+   "id": "tt1865505",
+   "type": "movie",
+   "name": "Song of the Sea",
+   "poster": "https://images.metahub.space/poster/medium/tt1865505/img",
+   "description": "Metacritic 85, Rotten Tomatoes 99%"
+  },
+  {
+   "id": "tt5198068",
+   "type": "movie",
+   "name": "Wolfwalkers",
+   "poster": "https://images.metahub.space/poster/medium/tt5198068/img",
+   "description": "Metacritic 87, Rotten Tomatoes 99%"
+  },
+  {
+   "id": "tt0892769",
+   "type": "movie",
+   "name": "How to Train Your Dragon",
+   "poster": "https://images.metahub.space/poster/medium/tt0892769/img",
+   "description": "Metacritic 75, Rotten Tomatoes 99%"
+  },
+  {
+   "id": "tt0097814",
+   "type": "movie",
+   "name": "Kiki's Delivery Service",
+   "poster": "https://images.metahub.space/poster/medium/tt0097814/img",
+   "description": "Metacritic 85, Rotten Tomatoes 98%"
+  },
+  {
+   "id": "tt1049413",
+   "type": "movie",
+   "name": "Up",
+   "poster": "https://images.metahub.space/poster/medium/tt1049413/img",
+   "description": "Metacritic 88, Rotten Tomatoes 98%"
+  },
+  {
+   "id": "tt2096673",
+   "type": "movie",
+   "name": "Inside Out",
+   "poster": "https://images.metahub.space/poster/medium/tt2096673/img",
+   "description": "Metacritic 94, Rotten Tomatoes 98%"
+  },
+  {
+   "id": "tt2948356",
+   "type": "movie",
+   "name": "Zootopia",
+   "poster": "https://images.metahub.space/poster/medium/tt2948356/img",
+   "description": "Metacritic 78, Rotten Tomatoes 98%"
+  },
+  {
+   "id": "tt4772188",
+   "type": "movie",
+   "name": "Flow",
+   "poster": "https://images.metahub.space/poster/medium/tt4772188/img",
+   "description": "Metacritic 87, Rotten Tomatoes 97%"
+  },
+  {
+   "id": "tt2380307",
+   "type": "movie",
+   "name": "Coco",
+   "poster": "https://images.metahub.space/poster/medium/tt2380307/img",
+   "description": "Metacritic 81, Rotten Tomatoes 97%"
+  },
+  {
+   "id": "tt29623480",
+   "type": "movie",
+   "name": "The Wild Robot",
+   "poster": "https://images.metahub.space/poster/medium/tt29623480/img",
+   "description": "Metacritic 85, Rotten Tomatoes 97%"
+  },
+  {
+   "id": "tt4633694",
+   "type": "movie",
+   "name": "Spider-Man: Into the Spider-Verse",
+   "poster": "https://images.metahub.space/poster/medium/tt4633694/img",
+   "description": "Metacritic 87, Rotten Tomatoes 97%"
+  },
+  {
+   "id": "tt0245429",
+   "type": "movie",
+   "name": "Spirited Away",
+   "poster": "https://images.metahub.space/poster/medium/tt0245429/img",
+   "description": "Metacritic 96, Rotten Tomatoes 96%"
+  },
+  {
+   "id": "tt0092067",
+   "type": "movie",
+   "name": "Castle in the Sky",
+   "poster": "https://images.metahub.space/poster/medium/tt0092067/img",
+   "description": "Metacritic 78, Rotten Tomatoes 96%"
+  },
+  {
+   "id": "tt0382932",
+   "type": "movie",
+   "name": "Ratatouille",
+   "poster": "https://images.metahub.space/poster/medium/tt0382932/img",
+   "description": "Metacritic 96, Rotten Tomatoes 96%"
+  },
+  {
+   "id": "tt0129167",
+   "type": "movie",
+   "name": "The Iron Giant",
+   "poster": "https://images.metahub.space/poster/medium/tt0129167/img",
+   "description": "Metacritic 85, Rotten Tomatoes 96%"
+  },
+  {
+   "id": "tt0032455",
+   "type": "movie",
+   "name": "Fantazja",
+   "poster": "https://images.metahub.space/poster/medium/tt0032455/img",
+   "description": "Metacritic 96, Rotten Tomatoes 95%"
+  },
+  {
+   "id": "tt0910970",
+   "type": "movie",
+   "name": "WALL·E",
+   "poster": "https://images.metahub.space/poster/medium/tt0910970/img",
+   "description": "Metacritic 95, Rotten Tomatoes 95%"
+  },
+  {
+   "id": "tt4729430",
+   "type": "movie",
+   "name": "Klaus",
+   "poster": "https://images.metahub.space/poster/medium/tt4729430/img",
+   "description": "Metacritic 65, Rotten Tomatoes 95%"
+  },
+  {
+   "id": "tt0096283",
+   "type": "movie",
+   "name": "My Neighbor Totoro",
+   "poster": "https://images.metahub.space/poster/medium/tt0096283/img",
+   "description": "Metacritic 87, Rotten Tomatoes 93%"
+  },
+  {
+   "id": "tt0432283",
+   "type": "movie",
+   "name": "Fantastic Mr. Fox",
+   "poster": "https://images.metahub.space/poster/medium/tt0432283/img",
+   "description": "Metacritic 83, Rotten Tomatoes 93%"
+  },
+  {
+   "id": "tt0876563",
+   "type": "movie",
+   "name": "Ponyo",
+   "poster": "https://images.metahub.space/poster/medium/tt0876563/img",
+   "description": "Metacritic 86, Rotten Tomatoes 91%"
+  },
+  {
+   "id": "tt0126029",
+   "type": "movie",
+   "name": "Shrek",
+   "poster": "https://images.metahub.space/poster/medium/tt0126029/img",
+   "description": "Metacritic 84, Rotten Tomatoes 89%"
+  },
+  {
+   "id": "tt0347149",
+   "type": "movie",
+   "name": "Howl's Moving Castle",
+   "poster": "https://images.metahub.space/poster/medium/tt0347149/img",
+   "description": "Metacritic 82, Rotten Tomatoes 88%"
+  }
+ ]
+}
