@@ -1,0 +1,2104 @@
+{
+ "metas": [
+  {
+   "id": "tt0111495",
+   "type": "movie",
+   "name": "Trzy kolory. Czerwony",
+   "poster": "https://images.metahub.space/poster/medium/tt0111495/img",
+   "description": "Metacritic 100, Rotten Tomatoes 100%"
+  },
+  {
+   "id": "tt0046438",
+   "type": "movie",
+   "name": "Tokijska opowieść",
+   "poster": "https://images.metahub.space/poster/medium/tt0046438/img",
+   "description": "Metacritic 100, Rotten Tomatoes 100%"
+  },
+  {
+   "id": "tt0083922",
+   "type": "movie",
+   "name": "Fanny i Aleksander",
+   "poster": "https://images.metahub.space/poster/medium/tt0083922/img",
+   "description": "Metacritic 100, Rotten Tomatoes 100%"
+  },
+  {
+   "id": "tt0034583",
+   "type": "movie",
+   "name": "Casablanca",
+   "poster": "https://images.metahub.space/poster/medium/tt0034583/img",
+   "description": "Metacritic 100, Rotten Tomatoes 99%"
+  },
+  {
+   "id": "tt0047396",
+   "type": "movie",
+   "name": "Okno na podwórze",
+   "poster": "https://images.metahub.space/poster/medium/tt0047396/img",
+   "description": "Metacritic 100, Rotten Tomatoes 99%"
+  },
+  {
+   "id": "tt0033467",
+   "type": "movie",
+   "name": "Obywatel Kane",
+   "poster": "https://images.metahub.space/poster/medium/tt0033467/img",
+   "description": "Metacritic 100, Rotten Tomatoes 99%"
+  },
+  {
+   "id": "tt0065571",
+   "type": "movie",
+   "name": "Konformista",
+   "poster": "https://images.metahub.space/poster/medium/tt0065571/img",
+   "description": "Metacritic 100, Rotten Tomatoes 98%"
+  },
+  {
+   "id": "tt0045152",
+   "type": "movie",
+   "name": "Deszczowa piosenka",
+   "poster": "https://images.metahub.space/poster/medium/tt0045152/img",
+   "description": "Metacritic 99, Rotten Tomatoes 100%"
+  },
+  {
+   "id": "tt0047478",
+   "type": "movie",
+   "name": "Siedmiu samurajów",
+   "poster": "https://images.metahub.space/poster/medium/tt0047478/img",
+   "description": "Metacritic 98, Rotten Tomatoes 100%"
+  },
+  {
+   "id": "tt0040897",
+   "type": "movie",
+   "name": "Skarb Sierra Madre",
+   "poster": "https://images.metahub.space/poster/medium/tt0040897/img",
+   "description": "Metacritic 98, Rotten Tomatoes 100%"
+  },
+  {
+   "id": "tt0060138",
+   "type": "movie",
+   "name": "Na los szczęścia, Baltazarze",
+   "poster": "https://images.metahub.space/poster/medium/tt0060138/img",
+   "description": "Metacritic 98, Rotten Tomatoes 100%"
+  },
+  {
+   "id": "tt0042192",
+   "type": "movie",
+   "name": "Wszystko o Ewie",
+   "poster": "https://images.metahub.space/poster/medium/tt0042192/img",
+   "description": "Metacritic 98, Rotten Tomatoes 99%"
+  },
+  {
+   "id": "tt0042876",
+   "type": "movie",
+   "name": "Rashōmon",
+   "poster": "https://images.metahub.space/poster/medium/tt0042876/img",
+   "description": "Metacritic 98, Rotten Tomatoes 98%"
+  },
+  {
+   "id": "tt0019254",
+   "type": "movie",
+   "name": "Męczeństwo Joanny d'Arc",
+   "poster": "https://images.metahub.space/poster/medium/tt0019254/img",
+   "description": "Metacritic 98, Rotten Tomatoes 98%"
+  },
+  {
+   "id": "tt0110057",
+   "type": "movie",
+   "name": "W obręczy marzeń",
+   "poster": "https://images.metahub.space/poster/medium/tt0110057/img",
+   "description": "Metacritic 98, Rotten Tomatoes 98%"
+  },
+  {
+   "id": "tt8633462",
+   "type": "movie",
+   "name": "Quo vadis, Aida?",
+   "poster": "https://images.metahub.space/poster/medium/tt8633462/img",
+   "description": "Metacritic 97, Rotten Tomatoes 100%"
+  },
+  {
+   "id": "tt0050083",
+   "type": "movie",
+   "name": "Dwunastu gniewnych ludzi",
+   "poster": "https://images.metahub.space/poster/medium/tt0050083/img",
+   "description": "Metacritic 97, Rotten Tomatoes 100%"
+  },
+  {
+   "id": "tt0029843",
+   "type": "movie",
+   "name": "Przygody Robin Hooda",
+   "poster": "https://images.metahub.space/poster/medium/tt0029843/img",
+   "description": "Metacritic 97, Rotten Tomatoes 100%"
+  },
+  {
+   "id": "tt0015648",
+   "type": "movie",
+   "name": "Pancernik Potiomkin",
+   "poster": "https://images.metahub.space/poster/medium/tt0015648/img",
+   "description": "Metacritic 97, Rotten Tomatoes 100%"
+  },
+  {
+   "id": "tt6751668",
+   "type": "movie",
+   "name": "Parasite",
+   "poster": "https://images.metahub.space/poster/medium/tt6751668/img",
+   "description": "Metacritic 97, Rotten Tomatoes 99%"
+  },
+  {
+   "id": "tt0033870",
+   "type": "movie",
+   "name": "Sokół maltański",
+   "poster": "https://images.metahub.space/poster/medium/tt0033870/img",
+   "description": "Metacritic 97, Rotten Tomatoes 99%"
+  },
+  {
+   "id": "tt0041959",
+   "type": "movie",
+   "name": "Trzeci człowiek",
+   "poster": "https://images.metahub.space/poster/medium/tt0041959/img",
+   "description": "Metacritic 97, Rotten Tomatoes 99%"
+  },
+  {
+   "id": "tt0057012",
+   "type": "movie",
+   "name": "Doktor Strangelove, czyli jak przestałem się martwić i pokochałem bombę",
+   "poster": "https://images.metahub.space/poster/medium/tt0057012/img",
+   "description": "Metacritic 97, Rotten Tomatoes 98%"
+  },
+  {
+   "id": "tt5275892",
+   "type": "movie",
+   "name": "O.J.: Made in America",
+   "poster": "https://images.metahub.space/poster/medium/tt5275892/img",
+   "description": "Metacritic 96, Rotten Tomatoes 100%"
+  },
+  {
+   "id": "tt0032551",
+   "type": "movie",
+   "name": "Grona gniewu",
+   "poster": "https://images.metahub.space/poster/medium/tt0032551/img",
+   "description": "Metacritic 96, Rotten Tomatoes 100%"
+  },
+  {
+   "id": "tt0033804",
+   "type": "movie",
+   "name": "Lady Eve",
+   "poster": "https://images.metahub.space/poster/medium/tt0033804/img",
+   "description": "Metacritic 96, Rotten Tomatoes 100%"
+  },
+  {
+   "id": "tt0033045",
+   "type": "movie",
+   "name": "Sklep za rogiem",
+   "poster": "https://images.metahub.space/poster/medium/tt0033045/img",
+   "description": "Metacritic 96, Rotten Tomatoes 99%"
+  },
+  {
+   "id": "tt0058946",
+   "type": "movie",
+   "name": "Bitwa o Algier",
+   "poster": "https://images.metahub.space/poster/medium/tt0058946/img",
+   "description": "Metacritic 96, Rotten Tomatoes 99%"
+  },
+  {
+   "id": "tt0027977",
+   "type": "movie",
+   "name": "Dzisiejsze czasy",
+   "poster": "https://images.metahub.space/poster/medium/tt0027977/img",
+   "description": "Metacritic 96, Rotten Tomatoes 98%"
+  },
+  {
+   "id": "tt0058182",
+   "type": "movie",
+   "name": "Noc po ciężkim dniu",
+   "poster": "https://images.metahub.space/poster/medium/tt0058182/img",
+   "description": "Metacritic 96, Rotten Tomatoes 98%"
+  },
+  {
+   "id": "tt0052561",
+   "type": "movie",
+   "name": "Anatomia morderstwa",
+   "poster": "https://images.metahub.space/poster/medium/tt0052561/img",
+   "description": "Metacritic 95, Rotten Tomatoes 100%"
+  },
+  {
+   "id": "tt5804038",
+   "type": "movie",
+   "name": "Nie jestem twoim murzynem",
+   "poster": "https://images.metahub.space/poster/medium/tt5804038/img",
+   "description": "Metacritic 95, Rotten Tomatoes 99%"
+  },
+  {
+   "id": "tt1832382",
+   "type": "movie",
+   "name": "Rozstanie",
+   "poster": "https://images.metahub.space/poster/medium/tt1832382/img",
+   "description": "Metacritic 95, Rotten Tomatoes 99%"
+  },
+  {
+   "id": "tt10706602",
+   "type": "movie",
+   "name": "Kolektyw (film)",
+   "poster": "https://images.metahub.space/poster/medium/tt10706602/img",
+   "description": "Metacritic 95, Rotten Tomatoes 99%"
+  },
+  {
+   "id": "tt0108052",
+   "type": "movie",
+   "name": "Lista Schindlera",
+   "poster": "https://images.metahub.space/poster/medium/tt0108052/img",
+   "description": "Metacritic 95, Rotten Tomatoes 98%"
+  },
+  {
+   "id": "tt0018455",
+   "type": "movie",
+   "name": "Wschód słońca",
+   "poster": "https://images.metahub.space/poster/medium/tt0018455/img",
+   "description": "Metacritic 95, Rotten Tomatoes 98%"
+  },
+  {
+   "id": "tt0026138",
+   "type": "movie",
+   "name": "Narzeczona Frankensteina",
+   "poster": "https://images.metahub.space/poster/medium/tt0026138/img",
+   "description": "Metacritic 95, Rotten Tomatoes 98%"
+  },
+  {
+   "id": "tt0037059",
+   "type": "movie",
+   "name": "Spotkamy się w St. Louis",
+   "poster": "https://images.metahub.space/poster/medium/tt0037059/img",
+   "description": "Metacritic 94, Rotten Tomatoes 100%"
+  },
+  {
+   "id": "tt0036342",
+   "type": "movie",
+   "name": "Cień wątpliwości",
+   "poster": "https://images.metahub.space/poster/medium/tt0036342/img",
+   "description": "Metacritic 94, Rotten Tomatoes 100%"
+  },
+  {
+   "id": "tt0088178",
+   "type": "movie",
+   "name": "Stop Making Sense",
+   "poster": "https://images.metahub.space/poster/medium/tt0088178/img",
+   "description": "Metacritic 94, Rotten Tomatoes 100%"
+  },
+  {
+   "id": "tt4935462",
+   "type": "movie",
+   "name": "Amazing Grace",
+   "poster": "https://images.metahub.space/poster/medium/tt4935462/img",
+   "description": "Metacritic 94, Rotten Tomatoes 99%"
+  },
+  {
+   "id": "tt5598102",
+   "type": "movie",
+   "name": "Faces Places",
+   "poster": "https://images.metahub.space/poster/medium/tt5598102/img",
+   "description": "Metacritic 94, Rotten Tomatoes 99%"
+  },
+  {
+   "id": "tt2209418",
+   "type": "movie",
+   "name": "Przed północą",
+   "poster": "https://images.metahub.space/poster/medium/tt2209418/img",
+   "description": "Metacritic 94, Rotten Tomatoes 98%"
+  },
+  {
+   "id": "tt0043014",
+   "type": "movie",
+   "name": "Bulwar Zachodzącego Słońca",
+   "poster": "https://images.metahub.space/poster/medium/tt0043014/img",
+   "description": "Metacritic 94, Rotten Tomatoes 98%"
+  },
+  {
+   "id": "tt32086077",
+   "type": "movie",
+   "name": "All We Imagine as Light",
+   "poster": "https://images.metahub.space/poster/medium/tt32086077/img",
+   "description": "Metacritic 93, Rotten Tomatoes 100%"
+  },
+  {
+   "id": "tt30953759",
+   "type": "movie",
+   "name": "No Other Land",
+   "poster": "https://images.metahub.space/poster/medium/tt30953759/img",
+   "description": "Metacritic 93, Rotten Tomatoes 100%"
+  },
+  {
+   "id": "tt0031971",
+   "type": "movie",
+   "name": "Dyliżans",
+   "poster": "https://images.metahub.space/poster/medium/tt0031971/img",
+   "description": "Metacritic 93, Rotten Tomatoes 100%"
+  },
+  {
+   "id": "tt0027125",
+   "type": "movie",
+   "name": "Panowie w cylindrach",
+   "poster": "https://images.metahub.space/poster/medium/tt0027125/img",
+   "description": "Metacritic 93, Rotten Tomatoes 100%"
+  },
+  {
+   "id": "tt4925292",
+   "type": "movie",
+   "name": "Lady Bird",
+   "poster": "https://images.metahub.space/poster/medium/tt4925292/img",
+   "description": "Metacritic 93, Rotten Tomatoes 99%"
+  },
+  {
+   "id": "tt8075192",
+   "type": "movie",
+   "name": "Złodziejaszki",
+   "poster": "https://images.metahub.space/poster/medium/tt8075192/img",
+   "description": "Metacritic 93, Rotten Tomatoes 99%"
+  },
+  {
+   "id": "tt11874226",
+   "type": "movie",
+   "name": "American Utopia",
+   "poster": "https://images.metahub.space/poster/medium/tt11874226/img",
+   "description": "Metacritic 93, Rotten Tomatoes 98%"
+  },
+  {
+   "id": "tt0068361",
+   "type": "movie",
+   "name": "Dyskretny urok burżuazji",
+   "poster": "https://images.metahub.space/poster/medium/tt0068361/img",
+   "description": "Metacritic 93, Rotten Tomatoes 98%"
+  },
+  {
+   "id": "tt20205236",
+   "type": "movie",
+   "name": "No Bears",
+   "poster": "https://images.metahub.space/poster/medium/tt20205236/img",
+   "description": "Metacritic 92, Rotten Tomatoes 100%"
+  },
+  {
+   "id": "tt0061512",
+   "type": "movie",
+   "name": "Nieugięty Luke",
+   "poster": "https://images.metahub.space/poster/medium/tt0061512/img",
+   "description": "Metacritic 92, Rotten Tomatoes 100%"
+  },
+  {
+   "id": "tt7772582",
+   "type": "movie",
+   "name": "Never Rarely Sometimes Always",
+   "poster": "https://images.metahub.space/poster/medium/tt7772582/img",
+   "description": "Metacritic 92, Rotten Tomatoes 99%"
+  },
+  {
+   "id": "tt0083866",
+   "type": "movie",
+   "name": "E.T.",
+   "poster": "https://images.metahub.space/poster/medium/tt0083866/img",
+   "description": "Metacritic 92, Rotten Tomatoes 99%"
+  },
+  {
+   "id": "tt36491653",
+   "type": "movie",
+   "name": "It Was Just an Accident",
+   "poster": "https://images.metahub.space/poster/medium/tt36491653/img",
+   "description": "Metacritic 92, Rotten Tomatoes 98%"
+  },
+  {
+   "id": "tt0032138",
+   "type": "movie",
+   "name": "Czarnoksiężnik z Oz",
+   "poster": "https://images.metahub.space/poster/medium/tt0032138/img",
+   "description": "Metacritic 92, Rotten Tomatoes 98%"
+  },
+  {
+   "id": "tt0071315",
+   "type": "movie",
+   "name": "Chinatown",
+   "poster": "https://images.metahub.space/poster/medium/tt0071315/img",
+   "description": "Metacritic 92, Rotten Tomatoes 98%"
+  },
+  {
+   "id": "tt3409392",
+   "type": "movie",
+   "name": "Timbuktu",
+   "poster": "https://images.metahub.space/poster/medium/tt3409392/img",
+   "description": "Metacritic 92, Rotten Tomatoes 98%"
+  },
+  {
+   "id": "tt0044741",
+   "type": "movie",
+   "name": "Piętno śmierci",
+   "poster": "https://images.metahub.space/poster/medium/tt0044741/img",
+   "description": "Metacritic 92, Rotten Tomatoes 98%"
+  },
+  {
+   "id": "tt0119488",
+   "type": "movie",
+   "name": "Tajemnice Los Angeles",
+   "poster": "https://images.metahub.space/poster/medium/tt0119488/img",
+   "description": "Metacritic 91, Rotten Tomatoes 99%"
+  },
+  {
+   "id": "tt7905466",
+   "type": "movie",
+   "name": "I młodzi pozostaną",
+   "poster": "https://images.metahub.space/poster/medium/tt7905466/img",
+   "description": "Metacritic 91, Rotten Tomatoes 99%"
+  },
+  {
+   "id": "tt0047296",
+   "type": "movie",
+   "name": "Na nabrzeżach",
+   "poster": "https://images.metahub.space/poster/medium/tt0047296/img",
+   "description": "Metacritic 91, Rotten Tomatoes 99%"
+  },
+  {
+   "id": "tt0020629",
+   "type": "movie",
+   "name": "Na Zachodzie bez zmian",
+   "poster": "https://images.metahub.space/poster/medium/tt0020629/img",
+   "description": "Metacritic 91, Rotten Tomatoes 98%"
+  },
+  {
+   "id": "tt0120255",
+   "type": "movie",
+   "name": "Słodkie jutro",
+   "poster": "https://images.metahub.space/poster/medium/tt0120255/img",
+   "description": "Metacritic 91, Rotten Tomatoes 98%"
+  },
+  {
+   "id": "tt3062880",
+   "type": "movie",
+   "name": "Gett: The Trial of Viviane Amsalem",
+   "poster": "https://images.metahub.space/poster/medium/tt3062880/img",
+   "description": "Metacritic 90, Rotten Tomatoes 100%"
+  },
+  {
+   "id": "tt4015500",
+   "type": "movie",
+   "name": "Opowieść (film 2018)",
+   "poster": "https://images.metahub.space/poster/medium/tt4015500/img",
+   "description": "Metacritic 90, Rotten Tomatoes 99%"
+  },
+  {
+   "id": "tt0015864",
+   "type": "movie",
+   "name": "Gorączka złota",
+   "poster": "https://images.metahub.space/poster/medium/tt0015864/img",
+   "description": "Metacritic 90, Rotten Tomatoes 98%"
+  },
+  {
+   "id": "tt1155592",
+   "type": "movie",
+   "name": "Człowiek na linie",
+   "poster": "https://images.metahub.space/poster/medium/tt1155592/img",
+   "description": "Metacritic 89, Rotten Tomatoes 100%"
+  },
+  {
+   "id": "tt7476236",
+   "type": "movie",
+   "name": "Minding the Gap",
+   "poster": "https://images.metahub.space/poster/medium/tt7476236/img",
+   "description": "Metacritic 89, Rotten Tomatoes 100%"
+  },
+  {
+   "id": "tt1087578",
+   "type": "movie",
+   "name": "Still Walking",
+   "poster": "https://images.metahub.space/poster/medium/tt1087578/img",
+   "description": "Metacritic 89, Rotten Tomatoes 100%"
+  },
+  {
+   "id": "tt0108065",
+   "type": "movie",
+   "name": "Szachowe dzieciństwo",
+   "poster": "https://images.metahub.space/poster/medium/tt0108065/img",
+   "description": "Metacritic 89, Rotten Tomatoes 100%"
+  },
+  {
+   "id": "tt10633456",
+   "type": "movie",
+   "name": "Minari",
+   "poster": "https://images.metahub.space/poster/medium/tt10633456/img",
+   "description": "Metacritic 89, Rotten Tomatoes 98%"
+  },
+  {
+   "id": "tt2764784",
+   "type": "movie",
+   "name": "Phoenix",
+   "poster": "https://images.metahub.space/poster/medium/tt2764784/img",
+   "description": "Metacritic 89, Rotten Tomatoes 98%"
+  },
+  {
+   "id": "tt9617456",
+   "type": "movie",
+   "name": "Dla Samy",
+   "poster": "https://images.metahub.space/poster/medium/tt9617456/img",
+   "description": "Metacritic 89, Rotten Tomatoes 98%"
+  },
+  {
+   "id": "tt3892172",
+   "type": "movie",
+   "name": "Zatrzyj ślady",
+   "poster": "https://images.metahub.space/poster/medium/tt3892172/img",
+   "description": "Metacritic 88, Rotten Tomatoes 100%"
+  },
+  {
+   "id": "tt4468740",
+   "type": "movie",
+   "name": "Paddington 2",
+   "poster": "https://images.metahub.space/poster/medium/tt4468740/img",
+   "description": "Metacritic 88, Rotten Tomatoes 99%"
+  },
+  {
+   "id": "tt8760684",
+   "type": "movie",
+   "name": "Apollo 11",
+   "poster": "https://images.metahub.space/poster/medium/tt8760684/img",
+   "description": "Metacritic 88, Rotten Tomatoes 99%"
+  },
+  {
+   "id": "tt4120176",
+   "type": "movie",
+   "name": "Co przynosi przyszłość",
+   "poster": "https://images.metahub.space/poster/medium/tt4120176/img",
+   "description": "Metacritic 88, Rotten Tomatoes 99%"
+  },
+  {
+   "id": "tt10272386",
+   "type": "movie",
+   "name": "Ojciec",
+   "poster": "https://images.metahub.space/poster/medium/tt10272386/img",
+   "description": "Metacritic 88, Rotten Tomatoes 98%"
+  },
+  {
+   "id": "tt8503618",
+   "type": "movie",
+   "name": "Hamilton",
+   "poster": "https://images.metahub.space/poster/medium/tt8503618/img",
+   "description": "Metacritic 88, Rotten Tomatoes 98%"
+  },
+  {
+   "id": "tt1645089",
+   "type": "movie",
+   "name": "Inside Job",
+   "poster": "https://images.metahub.space/poster/medium/tt1645089/img",
+   "description": "Metacritic 88, Rotten Tomatoes 98%"
+  },
+  {
+   "id": "tt0044079",
+   "type": "movie",
+   "name": "Nieznajomi z pociągu",
+   "poster": "https://images.metahub.space/poster/medium/tt0044079/img",
+   "description": "Metacritic 88, Rotten Tomatoes 98%"
+  },
+  {
+   "id": "tt0092048",
+   "type": "movie",
+   "name": "Tampopo",
+   "poster": "https://images.metahub.space/poster/medium/tt0092048/img",
+   "description": "Metacritic 87, Rotten Tomatoes 100%"
+  },
+  {
+   "id": "tt2852470",
+   "type": "movie",
+   "name": "Brakujące zdjęcie",
+   "poster": "https://images.metahub.space/poster/medium/tt2852470/img",
+   "description": "Metacritic 87, Rotten Tomatoes 99%"
+  },
+  {
+   "id": "tt16377862",
+   "type": "movie",
+   "name": "Wszystko, co żyje",
+   "poster": "https://images.metahub.space/poster/medium/tt16377862/img",
+   "description": "Metacritic 87, Rotten Tomatoes 99%"
+  },
+  {
+   "id": "tt0058150",
+   "type": "movie",
+   "name": "Goldfinger",
+   "poster": "https://images.metahub.space/poster/medium/tt0058150/img",
+   "description": "Metacritic 87, Rotten Tomatoes 99%"
+  },
+  {
+   "id": "tt1360860",
+   "type": "movie",
+   "name": "Co wiesz o Elly?",
+   "poster": "https://images.metahub.space/poster/medium/tt1360860/img",
+   "description": "Metacritic 87, Rotten Tomatoes 99%"
+  },
+  {
+   "id": "tt4595882",
+   "type": "movie",
+   "name": "Czy mi kiedyś wybaczysz?",
+   "poster": "https://images.metahub.space/poster/medium/tt4595882/img",
+   "description": "Metacritic 87, Rotten Tomatoes 98%"
+  },
+  {
+   "id": "tt0436613",
+   "type": "movie",
+   "name": "Murderball - gra o życie",
+   "poster": "https://images.metahub.space/poster/medium/tt0436613/img",
+   "description": "Metacritic 87, Rotten Tomatoes 98%"
+  },
+  {
+   "id": "tt0025316",
+   "type": "movie",
+   "name": "Ich noce",
+   "poster": "https://images.metahub.space/poster/medium/tt0025316/img",
+   "description": "Metacritic 87, Rotten Tomatoes 98%"
+  },
+  {
+   "id": "tt0185125",
+   "type": "movie",
+   "name": "Wszystko o mojej matce",
+   "poster": "https://images.metahub.space/poster/medium/tt0185125/img",
+   "description": "Metacritic 87, Rotten Tomatoes 98%"
+  },
+  {
+   "id": "tt8923484",
+   "type": "movie",
+   "name": "Obóz godności: Rewolucja w życiu niepełnosprawnych",
+   "poster": "https://images.metahub.space/poster/medium/tt8923484/img",
+   "description": "Metacritic 86, Rotten Tomatoes 100%"
+  },
+  {
+   "id": "tt7914416",
+   "type": "movie",
+   "name": "One Cut of the Dead",
+   "poster": "https://images.metahub.space/poster/medium/tt7914416/img",
+   "description": "Metacritic 86, Rotten Tomatoes 100%"
+  },
+  {
+   "id": "tt0814075",
+   "type": "movie",
+   "name": "Deliver Us from Evil",
+   "poster": "https://images.metahub.space/poster/medium/tt0814075/img",
+   "description": "Metacritic 86, Rotten Tomatoes 100%"
+  },
+  {
+   "id": "tt11394200",
+   "type": "movie",
+   "name": "Witamy w Czeczenii",
+   "poster": "https://images.metahub.space/poster/medium/tt11394200/img",
+   "description": "Metacritic 86, Rotten Tomatoes 100%"
+  },
+  {
+   "id": "tt11087960",
+   "type": "movie",
+   "name": "Playground",
+   "poster": "https://images.metahub.space/poster/medium/tt11087960/img",
+   "description": "Metacritic 86, Rotten Tomatoes 100%"
+  },
+  {
+   "id": "tt5873150",
+   "type": "movie",
+   "name": "Strong Island",
+   "poster": "https://images.metahub.space/poster/medium/tt5873150/img",
+   "description": "Metacritic 86, Rotten Tomatoes 100%"
+  },
+  {
+   "id": "tt13880104",
+   "type": "movie",
+   "name": "Zdarzyło się",
+   "poster": "https://images.metahub.space/poster/medium/tt13880104/img",
+   "description": "Metacritic 86, Rotten Tomatoes 99%"
+  },
+  {
+   "id": "tt14034966",
+   "type": "movie",
+   "name": "W pętli ryzyka i fantazji",
+   "poster": "https://images.metahub.space/poster/medium/tt14034966/img",
+   "description": "Metacritic 86, Rotten Tomatoes 99%"
+  },
+  {
+   "id": "tt5462602",
+   "type": "movie",
+   "name": "I tak cię kocham",
+   "poster": "https://images.metahub.space/poster/medium/tt5462602/img",
+   "description": "Metacritic 86, Rotten Tomatoes 98%"
+  },
+  {
+   "id": "tt2321549",
+   "type": "movie",
+   "name": "Babadook",
+   "poster": "https://images.metahub.space/poster/medium/tt2321549/img",
+   "description": "Metacritic 86, Rotten Tomatoes 98%"
+  },
+  {
+   "id": "tt21027780",
+   "type": "movie",
+   "name": "Opadające liście",
+   "poster": "https://images.metahub.space/poster/medium/tt21027780/img",
+   "description": "Metacritic 86, Rotten Tomatoes 98%"
+  },
+  {
+   "id": "tt6333056",
+   "type": "movie",
+   "name": "City of Ghosts",
+   "poster": "https://images.metahub.space/poster/medium/tt6333056/img",
+   "description": "Metacritic 86, Rotten Tomatoes 98%"
+  },
+  {
+   "id": "tt0032976",
+   "type": "movie",
+   "name": "Rebeka",
+   "poster": "https://images.metahub.space/poster/medium/tt0032976/img",
+   "description": "Metacritic 86, Rotten Tomatoes 98%"
+  },
+  {
+   "id": "tt2124803",
+   "type": "movie",
+   "name": "Jak przetrwać zarazę",
+   "poster": "https://images.metahub.space/poster/medium/tt2124803/img",
+   "description": "Metacritic 86, Rotten Tomatoes 98%"
+  },
+  {
+   "id": "tt8241872",
+   "type": "movie",
+   "name": "Vitalina Varela",
+   "poster": "https://images.metahub.space/poster/medium/tt8241872/img",
+   "description": "Metacritic 86, Rotten Tomatoes 98%"
+  },
+  {
+   "id": "tt8991268",
+   "type": "movie",
+   "name": "Kraina miodu",
+   "poster": "https://images.metahub.space/poster/medium/tt8991268/img",
+   "description": "Metacritic 85, Rotten Tomatoes 100%"
+  },
+  {
+   "id": "tt0046268",
+   "type": "movie",
+   "name": "Cena strachu",
+   "poster": "https://images.metahub.space/poster/medium/tt0046268/img",
+   "description": "Metacritic 85, Rotten Tomatoes 100%"
+  },
+  {
+   "id": "tt0079944",
+   "type": "movie",
+   "name": "Stalker",
+   "poster": "https://images.metahub.space/poster/medium/tt0079944/img",
+   "description": "Metacritic 85, Rotten Tomatoes 100%"
+  },
+  {
+   "id": "tt7014006",
+   "type": "movie",
+   "name": "Eighth Grade",
+   "poster": "https://images.metahub.space/poster/medium/tt7014006/img",
+   "description": "Metacritic 85, Rotten Tomatoes 99%"
+  },
+  {
+   "id": "tt7298400",
+   "type": "movie",
+   "name": "Ash Is Purest White",
+   "poster": "https://images.metahub.space/poster/medium/tt7298400/img",
+   "description": "Metacritic 85, Rotten Tomatoes 99%"
+  },
+  {
+   "id": "tt5052448",
+   "type": "movie",
+   "name": "Uciekaj!",
+   "poster": "https://images.metahub.space/poster/medium/tt5052448/img",
+   "description": "Metacritic 85, Rotten Tomatoes 98%"
+  },
+  {
+   "id": "tt5635086",
+   "type": "movie",
+   "name": "Piękny kraj",
+   "poster": "https://images.metahub.space/poster/medium/tt5635086/img",
+   "description": "Metacritic 85, Rotten Tomatoes 98%"
+  },
+  {
+   "id": "tt0082096",
+   "type": "movie",
+   "name": "Okręt",
+   "poster": "https://images.metahub.space/poster/medium/tt0082096/img",
+   "description": "Metacritic 85, Rotten Tomatoes 98%"
+  },
+  {
+   "id": "tt2486682",
+   "type": "movie",
+   "name": "The Square",
+   "poster": "https://images.metahub.space/poster/medium/tt2486682/img",
+   "description": "Metacritic 84, Rotten Tomatoes 100%"
+  },
+  {
+   "id": "tt0845439",
+   "type": "movie",
+   "name": "Perski Nowy Rok",
+   "poster": "https://images.metahub.space/poster/medium/tt0845439/img",
+   "description": "Metacritic 84, Rotten Tomatoes 100%"
+  },
+  {
+   "id": "tt9185206",
+   "type": "movie",
+   "name": "Are You There God? It's Me, Margaret",
+   "poster": "https://images.metahub.space/poster/medium/tt9185206/img",
+   "description": "Metacritic 84, Rotten Tomatoes 99%"
+  },
+  {
+   "id": "tt6135348",
+   "type": "movie",
+   "name": "120 uderzeń serca",
+   "poster": "https://images.metahub.space/poster/medium/tt6135348/img",
+   "description": "Metacritic 84, Rotten Tomatoes 99%"
+  },
+  {
+   "id": "tt28479262",
+   "type": "movie",
+   "name": "Sing Sing",
+   "poster": "https://images.metahub.space/poster/medium/tt28479262/img",
+   "description": "Metacritic 84, Rotten Tomatoes 98%"
+  },
+  {
+   "id": "tt28491891",
+   "type": "movie",
+   "name": "His Three Daughters",
+   "poster": "https://images.metahub.space/poster/medium/tt28491891/img",
+   "description": "Metacritic 84, Rotten Tomatoes 98%"
+  },
+  {
+   "id": "tt0311519",
+   "type": "movie",
+   "name": "Człowiek bez przeszłości",
+   "poster": "https://images.metahub.space/poster/medium/tt0311519/img",
+   "description": "Metacritic 84, Rotten Tomatoes 98%"
+  },
+  {
+   "id": "tt9573980",
+   "type": "movie",
+   "name": "Leaving Neverland",
+   "poster": "https://images.metahub.space/poster/medium/tt9573980/img",
+   "description": "Metacritic 84, Rotten Tomatoes 98%"
+  },
+  {
+   "id": "tt0077838",
+   "type": "movie",
+   "name": "The Last Waltz",
+   "poster": "https://images.metahub.space/poster/medium/tt0077838/img",
+   "description": "Metacritic 84, Rotten Tomatoes 98%"
+  },
+  {
+   "id": "tt17163970",
+   "type": "movie",
+   "name": "Wallace and Gromit: Vengeance Most Fowl",
+   "poster": "https://images.metahub.space/poster/medium/tt17163970/img",
+   "description": "Metacritic 83, Rotten Tomatoes 100%"
+  },
+  {
+   "id": "tt30321095",
+   "type": "movie",
+   "name": "Ghostlight",
+   "poster": "https://images.metahub.space/poster/medium/tt30321095/img",
+   "description": "Metacritic 83, Rotten Tomatoes 100%"
+  },
+  {
+   "id": "tt24082438",
+   "type": "movie",
+   "name": "20 dni w Mariupolu",
+   "poster": "https://images.metahub.space/poster/medium/tt24082438/img",
+   "description": "Metacritic 83, Rotten Tomatoes 100%"
+  },
+  {
+   "id": "tt16227014",
+   "type": "movie",
+   "name": "Wulkan miłości",
+   "poster": "https://images.metahub.space/poster/medium/tt16227014/img",
+   "description": "Metacritic 83, Rotten Tomatoes 99%"
+  },
+  {
+   "id": "tt2396566",
+   "type": "movie",
+   "name": "20 Feet from Stardom",
+   "poster": "https://images.metahub.space/poster/medium/tt2396566/img",
+   "description": "Metacritic 83, Rotten Tomatoes 99%"
+  },
+  {
+   "id": "tt4273292",
+   "type": "movie",
+   "name": "Under the Shadow",
+   "poster": "https://images.metahub.space/poster/medium/tt4273292/img",
+   "description": "Metacritic 83, Rotten Tomatoes 99%"
+  },
+  {
+   "id": "tt10612922",
+   "type": "movie",
+   "name": "Pewnej nocy w Miami…",
+   "poster": "https://images.metahub.space/poster/medium/tt10612922/img",
+   "description": "Metacritic 83, Rotten Tomatoes 98%"
+  },
+  {
+   "id": "tt2545118",
+   "type": "movie",
+   "name": "Blackfish",
+   "poster": "https://images.metahub.space/poster/medium/tt2545118/img",
+   "description": "Metacritic 83, Rotten Tomatoes 98%"
+  },
+  {
+   "id": "tt15893750",
+   "type": "movie",
+   "name": "Ulica Rye Lane",
+   "poster": "https://images.metahub.space/poster/medium/tt15893750/img",
+   "description": "Metacritic 83, Rotten Tomatoes 98%"
+  },
+  {
+   "id": "tt0112431",
+   "type": "movie",
+   "name": "Babe - świnka z klasą",
+   "poster": "https://images.metahub.space/poster/medium/tt0112431/img",
+   "description": "Metacritic 83, Rotten Tomatoes 98%"
+  },
+  {
+   "id": "tt6742252",
+   "type": "movie",
+   "name": "The Guilty",
+   "poster": "https://images.metahub.space/poster/medium/tt6742252/img",
+   "description": "Metacritic 83, Rotten Tomatoes 98%"
+  },
+  {
+   "id": "tt2304426",
+   "type": "movie",
+   "name": "Olbrzym – samolub",
+   "poster": "https://images.metahub.space/poster/medium/tt2304426/img",
+   "description": "Metacritic 83, Rotten Tomatoes 98%"
+  },
+  {
+   "id": "tt13269580",
+   "type": "movie",
+   "name": "Full Time",
+   "poster": "https://images.metahub.space/poster/medium/tt13269580/img",
+   "description": "Metacritic 83, Rotten Tomatoes 98%"
+  },
+  {
+   "id": "tt4771932",
+   "type": "movie",
+   "name": "Olli Mäki. Najszczęśliwszy dzień jego życia",
+   "poster": "https://images.metahub.space/poster/medium/tt4771932/img",
+   "description": "Metacritic 83, Rotten Tomatoes 98%"
+  },
+  {
+   "id": "tt0854678",
+   "type": "movie",
+   "name": "Kurs do Krainy Cienia",
+   "poster": "https://images.metahub.space/poster/medium/tt0854678/img",
+   "description": "Metacritic 82, Rotten Tomatoes 100%"
+  },
+  {
+   "id": "tt8951086",
+   "type": "movie",
+   "name": "Gniazdo kolibra",
+   "poster": "https://images.metahub.space/poster/medium/tt8951086/img",
+   "description": "Metacritic 82, Rotten Tomatoes 100%"
+  },
+  {
+   "id": "tt1508675",
+   "type": "movie",
+   "name": "Człowiek z Hawru",
+   "poster": "https://images.metahub.space/poster/medium/tt1508675/img",
+   "description": "Metacritic 82, Rotten Tomatoes 99%"
+  },
+  {
+   "id": "tt28814949",
+   "type": "movie",
+   "name": "Taylor Swift: The Eras Tour",
+   "poster": "https://images.metahub.space/poster/medium/tt28814949/img",
+   "description": "Metacritic 82, Rotten Tomatoes 99%"
+  },
+  {
+   "id": "tt17041964",
+   "type": "movie",
+   "name": "Navalny",
+   "poster": "https://images.metahub.space/poster/medium/tt17041964/img",
+   "description": "Metacritic 82, Rotten Tomatoes 99%"
+  },
+  {
+   "id": "tt0351817",
+   "type": "movie",
+   "name": "Samuraj - Zmierzch",
+   "poster": "https://images.metahub.space/poster/medium/tt0351817/img",
+   "description": "Metacritic 82, Rotten Tomatoes 99%"
+  },
+  {
+   "id": "tt1139797",
+   "type": "movie",
+   "name": "Pozwól mi wejść",
+   "poster": "https://images.metahub.space/poster/medium/tt1139797/img",
+   "description": "Metacritic 82, Rotten Tomatoes 98%"
+  },
+  {
+   "id": "tt1157605",
+   "type": "movie",
+   "name": "Anvil! The Story of Anvil",
+   "poster": "https://images.metahub.space/poster/medium/tt1157605/img",
+   "description": "Metacritic 82, Rotten Tomatoes 98%"
+  },
+  {
+   "id": "tt19719976",
+   "type": "movie",
+   "name": "Joyland",
+   "poster": "https://images.metahub.space/poster/medium/tt19719976/img",
+   "description": "Metacritic 82, Rotten Tomatoes 98%"
+  },
+  {
+   "id": "tt0466399",
+   "type": "movie",
+   "name": "Ten Canoes",
+   "poster": "https://images.metahub.space/poster/medium/tt0466399/img",
+   "description": "Metacritic 82, Rotten Tomatoes 98%"
+  },
+  {
+   "id": "tt30227076",
+   "type": "movie",
+   "name": "Black Box Diaries",
+   "poster": "https://images.metahub.space/poster/medium/tt30227076/img",
+   "description": "Metacritic 82, Rotten Tomatoes 98%"
+  },
+  {
+   "id": "tt2258858",
+   "type": "movie",
+   "name": "Dziewczynka w trampkach",
+   "poster": "https://images.metahub.space/poster/medium/tt2258858/img",
+   "description": "Metacritic 81, Rotten Tomatoes 99%"
+  },
+  {
+   "id": "tt2567712",
+   "type": "movie",
+   "name": "Starred Up",
+   "poster": "https://images.metahub.space/poster/medium/tt2567712/img",
+   "description": "Metacritic 81, Rotten Tomatoes 99%"
+  },
+  {
+   "id": "tt5215952",
+   "type": "movie",
+   "name": "Lament",
+   "poster": "https://images.metahub.space/poster/medium/tt5215952/img",
+   "description": "Metacritic 81, Rotten Tomatoes 99%"
+  },
+  {
+   "id": "tt11718516",
+   "type": "movie",
+   "name": "Huesera: The Bone Woman",
+   "poster": "https://images.metahub.space/poster/medium/tt11718516/img",
+   "description": "Metacritic 81, Rotten Tomatoes 99%"
+  },
+  {
+   "id": "tt23289160",
+   "type": "movie",
+   "name": "Godzilla Minus One",
+   "poster": "https://images.metahub.space/poster/medium/tt23289160/img",
+   "description": "Metacritic 81, Rotten Tomatoes 98%"
+  },
+  {
+   "id": "tt1845773",
+   "type": "movie",
+   "name": "Ai Weiwei: Never Sorry",
+   "poster": "https://images.metahub.space/poster/medium/tt1845773/img",
+   "description": "Metacritic 81, Rotten Tomatoes 98%"
+  },
+  {
+   "id": "tt18277182",
+   "type": "movie",
+   "name": "Girls Will Be Girls",
+   "poster": "https://images.metahub.space/poster/medium/tt18277182/img",
+   "description": "Metacritic 80, Rotten Tomatoes 100%"
+  },
+  {
+   "id": "tt36841161",
+   "type": "movie",
+   "name": "Shaun the Sheep: The Beast of Mossy Bottom",
+   "poster": "https://images.metahub.space/poster/medium/tt36841161/img",
+   "description": "Metacritic 80, Rotten Tomatoes 99%"
+  },
+  {
+   "id": "tt27958252",
+   "type": "movie",
+   "name": "Caught by the Tides",
+   "poster": "https://images.metahub.space/poster/medium/tt27958252/img",
+   "description": "Metacritic 80, Rotten Tomatoes 99%"
+  },
+  {
+   "id": "tt1125849",
+   "type": "movie",
+   "name": "Zapaśnik",
+   "poster": "https://images.metahub.space/poster/medium/tt1125849/img",
+   "description": "Metacritic 80, Rotten Tomatoes 98%"
+  },
+  {
+   "id": "tt1032856",
+   "type": "movie",
+   "name": "Przyjeżdża orkiestra",
+   "poster": "https://images.metahub.space/poster/medium/tt1032856/img",
+   "description": "Metacritic 80, Rotten Tomatoes 98%"
+  },
+  {
+   "id": "tt0112471",
+   "type": "movie",
+   "name": "Przed wschodem słońca",
+   "poster": "https://images.metahub.space/poster/medium/tt0112471/img",
+   "description": "Metacritic 79, Rotten Tomatoes 100%"
+  },
+  {
+   "id": "tt1020072",
+   "type": "movie",
+   "name": "Selma",
+   "poster": "https://images.metahub.space/poster/medium/tt1020072/img",
+   "description": "Metacritic 79, Rotten Tomatoes 99%"
+  },
+  {
+   "id": "tt1935156",
+   "type": "movie",
+   "name": "Jodorowsky's Dune",
+   "poster": "https://images.metahub.space/poster/medium/tt1935156/img",
+   "description": "Metacritic 79, Rotten Tomatoes 98%"
+  },
+  {
+   "id": "tt11225756",
+   "type": "movie",
+   "name": "The Lost Leonardo",
+   "poster": "https://images.metahub.space/poster/medium/tt11225756/img",
+   "description": "Metacritic 79, Rotten Tomatoes 98%"
+  },
+  {
+   "id": "tt8637504",
+   "type": "movie",
+   "name": "Ujawnienie",
+   "poster": "https://images.metahub.space/poster/medium/tt8637504/img",
+   "description": "Metacritic 79, Rotten Tomatoes 98%"
+  },
+  {
+   "id": "tt1268204",
+   "type": "movie",
+   "name": "Waste Land",
+   "poster": "https://images.metahub.space/poster/medium/tt1268204/img",
+   "description": "Metacritic 78, Rotten Tomatoes 100%"
+  },
+  {
+   "id": "tt0216787",
+   "type": "movie",
+   "name": "Gusta i guściki",
+   "poster": "https://images.metahub.space/poster/medium/tt0216787/img",
+   "description": "Metacritic 78, Rotten Tomatoes 100%"
+  },
+  {
+   "id": "tt4914580",
+   "type": "movie",
+   "name": "Gra cieni",
+   "poster": "https://images.metahub.space/poster/medium/tt4914580/img",
+   "description": "Metacritic 78, Rotten Tomatoes 100%"
+  },
+  {
+   "id": "tt11937680",
+   "type": "movie",
+   "name": "The Velvet Queen",
+   "poster": "https://images.metahub.space/poster/medium/tt11937680/img",
+   "description": "Metacritic 78, Rotten Tomatoes 100%"
+  },
+  {
+   "id": "tt19853258",
+   "type": "movie",
+   "name": "Nieustannie: Historia Michaela J. Foxa",
+   "poster": "https://images.metahub.space/poster/medium/tt19853258/img",
+   "description": "Metacritic 78, Rotten Tomatoes 99%"
+  },
+  {
+   "id": "tt21867434",
+   "type": "movie",
+   "name": "BlackBerry",
+   "poster": "https://images.metahub.space/poster/medium/tt21867434/img",
+   "description": "Metacritic 78, Rotten Tomatoes 98%"
+  },
+  {
+   "id": "tt4420704",
+   "type": "movie",
+   "name": "Kedi - sekretne życie kotów",
+   "poster": "https://images.metahub.space/poster/medium/tt4420704/img",
+   "description": "Metacritic 78, Rotten Tomatoes 98%"
+  },
+  {
+   "id": "tt3260524",
+   "type": "movie",
+   "name": "A Secret Love",
+   "poster": "https://images.metahub.space/poster/medium/tt3260524/img",
+   "description": "Metacritic 77, Rotten Tomatoes 100%"
+  },
+  {
+   "id": "tt1772925",
+   "type": "movie",
+   "name": "Jiro Dreams of Sushi",
+   "poster": "https://images.metahub.space/poster/medium/tt1772925/img",
+   "description": "Metacritic 77, Rotten Tomatoes 99%"
+  },
+  {
+   "id": "tt11378264",
+   "type": "movie",
+   "name": "Mucho Mucho Amor: The Legend of Walter Mercado",
+   "poster": "https://images.metahub.space/poster/medium/tt11378264/img",
+   "description": "Metacritic 76, Rotten Tomatoes 100%"
+  },
+  {
+   "id": "tt28620587",
+   "type": "movie",
+   "name": "I Am: Celine Dion",
+   "poster": "https://images.metahub.space/poster/medium/tt28620587/img",
+   "description": "Metacritic 76, Rotten Tomatoes 100%"
+  },
+  {
+   "id": "tt0051201",
+   "type": "movie",
+   "name": "Świadek oskarżenia",
+   "poster": "https://images.metahub.space/poster/medium/tt0051201/img",
+   "description": "Metacritic 76, Rotten Tomatoes 100%"
+  },
+  {
+   "id": "tt27902121",
+   "type": "movie",
+   "name": "Super/Man: The Christopher Reeve Story",
+   "poster": "https://images.metahub.space/poster/medium/tt27902121/img",
+   "description": "Metacritic 76, Rotten Tomatoes 98%"
+  },
+  {
+   "id": "tt10189300",
+   "type": "movie",
+   "name": "Lunana. Szkoła na końcu świata",
+   "poster": "https://images.metahub.space/poster/medium/tt10189300/img",
+   "description": "Metacritic 76, Rotten Tomatoes 98%"
+  },
+  {
+   "id": "tt23778968",
+   "type": "movie",
+   "name": "Thelma",
+   "poster": "https://images.metahub.space/poster/medium/tt23778968/img",
+   "description": "Metacritic 76, Rotten Tomatoes 98%"
+  },
+  {
+   "id": "tt30444418",
+   "type": "movie",
+   "name": "Santosh",
+   "poster": "https://images.metahub.space/poster/medium/tt30444418/img",
+   "description": "Metacritic 75, Rotten Tomatoes 100%"
+  },
+  {
+   "id": "tt2120152",
+   "type": "movie",
+   "name": "Niewidzialna wojna",
+   "poster": "https://images.metahub.space/poster/medium/tt2120152/img",
+   "description": "Metacritic 75, Rotten Tomatoes 99%"
+  },
+  {
+   "id": "tt8727582",
+   "type": "movie",
+   "name": "Circus of Books",
+   "poster": "https://images.metahub.space/poster/medium/tt8727582/img",
+   "description": "Metacritic 74, Rotten Tomatoes 98%"
+  },
+  {
+   "id": "tt11394158",
+   "type": "movie",
+   "name": "Miss Juneteenth",
+   "poster": "https://images.metahub.space/poster/medium/tt11394158/img",
+   "description": "Metacritic 73, Rotten Tomatoes 99%"
+  },
+  {
+   "id": "tt11127680",
+   "type": "movie",
+   "name": "Punkt wrzenia",
+   "poster": "https://images.metahub.space/poster/medium/tt11127680/img",
+   "description": "Metacritic 73, Rotten Tomatoes 99%"
+  },
+  {
+   "id": "tt0094737",
+   "type": "movie",
+   "name": "Duży",
+   "poster": "https://images.metahub.space/poster/medium/tt0094737/img",
+   "description": "Metacritic 73, Rotten Tomatoes 98%"
+  },
+  {
+   "id": "tt1316536",
+   "type": "movie",
+   "name": "The Loved Ones",
+   "poster": "https://images.metahub.space/poster/medium/tt1316536/img",
+   "description": "Metacritic 73, Rotten Tomatoes 98%"
+  },
+  {
+   "id": "tt8299768",
+   "type": "movie",
+   "name": "Blow the Man Down",
+   "poster": "https://images.metahub.space/poster/medium/tt8299768/img",
+   "description": "Metacritic 72, Rotten Tomatoes 98%"
+  },
+  {
+   "id": "tt8233874",
+   "type": "movie",
+   "name": "Extra Ordinary",
+   "poster": "https://images.metahub.space/poster/medium/tt8233874/img",
+   "description": "Metacritic 72, Rotten Tomatoes 98%"
+  },
+  {
+   "id": "tt2263058",
+   "type": "movie",
+   "name": "Więcej niż miód",
+   "poster": "https://images.metahub.space/poster/medium/tt2263058/img",
+   "description": "Metacritic 70, Rotten Tomatoes 100%"
+  },
+  {
+   "id": "tt19308034",
+   "type": "movie",
+   "name": "Jim Henson Idea Man",
+   "poster": "https://images.metahub.space/poster/medium/tt19308034/img",
+   "description": "Metacritic 69, Rotten Tomatoes 100%"
+  },
+  {
+   "id": "tt20102596",
+   "type": "movie",
+   "name": "LaRoy, Texas",
+   "poster": "https://images.metahub.space/poster/medium/tt20102596/img",
+   "description": "Metacritic 69, Rotten Tomatoes 100%"
+  },
+  {
+   "id": "tt0072251",
+   "type": "movie",
+   "name": "Długi postój na Park Avenue",
+   "poster": "https://images.metahub.space/poster/medium/tt0072251/img",
+   "description": "Metacritic 68, Rotten Tomatoes 100%"
+  },
+  {
+   "id": "tt6060444",
+   "type": "movie",
+   "name": "The Paper Tigers",
+   "poster": "https://images.metahub.space/poster/medium/tt6060444/img",
+   "description": "Metacritic 67, Rotten Tomatoes 98%"
+  },
+  {
+   "id": "tt8508734",
+   "type": "movie",
+   "name": "Czyj to dom?",
+   "poster": "https://images.metahub.space/poster/medium/tt8508734/img",
+   "description": "Rotten Tomatoes 100%"
+  },
+  {
+   "id": "tt0032904",
+   "type": "movie",
+   "name": "Filadelfijska opowieść",
+   "poster": "https://images.metahub.space/poster/medium/tt0032904/img",
+   "description": "Rotten Tomatoes 100%"
+  },
+  {
+   "id": "tt12801326",
+   "type": "movie",
+   "name": "76 Days",
+   "poster": "https://images.metahub.space/poster/medium/tt12801326/img",
+   "description": "Rotten Tomatoes 100%"
+  },
+  {
+   "id": "tt5897636",
+   "type": "movie",
+   "name": "Summer 1993",
+   "poster": "https://images.metahub.space/poster/medium/tt5897636/img",
+   "description": "Rotten Tomatoes 100%"
+  },
+  {
+   "id": "tt11394180",
+   "type": "movie",
+   "name": "Dick Johnson Is Dead",
+   "poster": "https://images.metahub.space/poster/medium/tt11394180/img",
+   "description": "Rotten Tomatoes 100%"
+  },
+  {
+   "id": "tt1527793",
+   "type": "movie",
+   "name": "No Other Choice",
+   "poster": "https://images.metahub.space/poster/medium/tt1527793/img",
+   "description": "Rotten Tomatoes 100%"
+  },
+  {
+   "id": "tt13648212",
+   "type": "movie",
+   "name": "Hive",
+   "poster": "https://images.metahub.space/poster/medium/tt13648212/img",
+   "description": "Rotten Tomatoes 100%"
+  },
+  {
+   "id": "tt0044829",
+   "type": "movie",
+   "name": "Szajka z Lawendowego Wzgórza",
+   "poster": "https://images.metahub.space/poster/medium/tt0044829/img",
+   "description": "Rotten Tomatoes 100%"
+  },
+  {
+   "id": "tt1287878",
+   "type": "movie",
+   "name": "Poezja",
+   "poster": "https://images.metahub.space/poster/medium/tt1287878/img",
+   "description": "Rotten Tomatoes 100%"
+  },
+  {
+   "id": "tt2219650",
+   "type": "movie",
+   "name": "Seymour: An Introduction",
+   "poster": "https://images.metahub.space/poster/medium/tt2219650/img",
+   "description": "Rotten Tomatoes 100%"
+  },
+  {
+   "id": "tt30319854",
+   "type": "movie",
+   "name": "Sugarcane",
+   "poster": "https://images.metahub.space/poster/medium/tt30319854/img",
+   "description": "Rotten Tomatoes 100%"
+  },
+  {
+   "id": "tt12538822",
+   "type": "movie",
+   "name": "All In: The Fight for Democracy",
+   "poster": "https://images.metahub.space/poster/medium/tt12538822/img",
+   "description": "Rotten Tomatoes 100%"
+  },
+  {
+   "id": "tt0037008",
+   "type": "movie",
+   "name": "Laura",
+   "poster": "https://images.metahub.space/poster/medium/tt0037008/img",
+   "description": "Rotten Tomatoes 100%"
+  },
+  {
+   "id": "tt12336480",
+   "type": "movie",
+   "name": "Daughters",
+   "poster": "https://images.metahub.space/poster/medium/tt12336480/img",
+   "description": "Rotten Tomatoes 100%"
+  },
+  {
+   "id": "tt0022100",
+   "type": "movie",
+   "name": "M - Morderca",
+   "poster": "https://images.metahub.space/poster/medium/tt0022100/img",
+   "description": "Rotten Tomatoes 100%"
+  },
+  {
+   "id": "tt9697780",
+   "type": "movie",
+   "name": "Slalom",
+   "poster": "https://images.metahub.space/poster/medium/tt9697780/img",
+   "description": "Rotten Tomatoes 100%"
+  },
+  {
+   "id": "tt0016654",
+   "type": "movie",
+   "name": "Czarny pirat",
+   "poster": "https://images.metahub.space/poster/medium/tt0016654/img",
+   "description": "Rotten Tomatoes 100%"
+  },
+  {
+   "id": "tt5215486",
+   "type": "movie",
+   "name": "Dawson City: Frozen Time",
+   "poster": "https://images.metahub.space/poster/medium/tt5215486/img",
+   "description": "Rotten Tomatoes 100%"
+  },
+  {
+   "id": "tt5836866",
+   "type": "movie",
+   "name": "The Work",
+   "poster": "https://images.metahub.space/poster/medium/tt5836866/img",
+   "description": "Rotten Tomatoes 100%"
+  },
+  {
+   "id": "tt5651050",
+   "type": "movie",
+   "name": "Bright Lights: Starring Carrie Fisher and Debbie Reynolds",
+   "poster": "https://images.metahub.space/poster/medium/tt5651050/img",
+   "description": "Rotten Tomatoes 100%"
+  },
+  {
+   "id": "tt12482898",
+   "type": "movie",
+   "name": "Attica",
+   "poster": "https://images.metahub.space/poster/medium/tt12482898/img",
+   "description": "Rotten Tomatoes 100%"
+  },
+  {
+   "id": "tt11905462",
+   "type": "movie",
+   "name": "Athlete A",
+   "poster": "https://images.metahub.space/poster/medium/tt11905462/img",
+   "description": "Rotten Tomatoes 100%"
+  },
+  {
+   "id": "tt1512201",
+   "type": "movie",
+   "name": "Last Train Home",
+   "poster": "https://images.metahub.space/poster/medium/tt1512201/img",
+   "description": "Rotten Tomatoes 100%"
+  },
+  {
+   "id": "tt13630174",
+   "type": "movie",
+   "name": "Ogniem pisane",
+   "poster": "https://images.metahub.space/poster/medium/tt13630174/img",
+   "description": "Rotten Tomatoes 100%"
+  },
+  {
+   "id": "tt6753132",
+   "type": "movie",
+   "name": "Chained for Life",
+   "poster": "https://images.metahub.space/poster/medium/tt6753132/img",
+   "description": "Rotten Tomatoes 100%"
+  },
+  {
+   "id": "tt4126312",
+   "type": "movie",
+   "name": "3 1/2 Minutes, 10 Bullets",
+   "poster": "https://images.metahub.space/poster/medium/tt4126312/img",
+   "description": "Rotten Tomatoes 100%"
+  },
+  {
+   "id": "tt0012349",
+   "type": "movie",
+   "name": "Brzdąc",
+   "poster": "https://images.metahub.space/poster/medium/tt0012349/img",
+   "description": "Rotten Tomatoes 100%"
+  },
+  {
+   "id": "tt0041546",
+   "type": "movie",
+   "name": "Szlachectwo zobowiązuje",
+   "poster": "https://images.metahub.space/poster/medium/tt0041546/img",
+   "description": "Rotten Tomatoes 100%"
+  },
+  {
+   "id": "tt10011500",
+   "type": "movie",
+   "name": "Slay the Dragon",
+   "poster": "https://images.metahub.space/poster/medium/tt10011500/img",
+   "description": "Rotten Tomatoes 100%"
+  },
+  {
+   "id": "tt1556190",
+   "type": "movie",
+   "name": "Nostalgia for the Light",
+   "poster": "https://images.metahub.space/poster/medium/tt1556190/img",
+   "description": "Rotten Tomatoes 100%"
+  },
+  {
+   "id": "tt8465676",
+   "type": "movie",
+   "name": "Nanette",
+   "poster": "https://images.metahub.space/poster/medium/tt8465676/img",
+   "description": "Rotten Tomatoes 100%"
+  },
+  {
+   "id": "tt8923500",
+   "type": "movie",
+   "name": "Midnight Traveler",
+   "poster": "https://images.metahub.space/poster/medium/tt8923500/img",
+   "description": "Rotten Tomatoes 100%"
+  },
+  {
+   "id": "tt0038890",
+   "type": "movie",
+   "name": "Rzym, miasto otwarte",
+   "poster": "https://images.metahub.space/poster/medium/tt0038890/img",
+   "description": "Rotten Tomatoes 100%"
+  },
+  {
+   "id": "tt2306745",
+   "type": "movie",
+   "name": "Sound City",
+   "poster": "https://images.metahub.space/poster/medium/tt2306745/img",
+   "description": "Rotten Tomatoes 100%"
+  },
+  {
+   "id": "tt1787837",
+   "type": "movie",
+   "name": "We Were Here",
+   "poster": "https://images.metahub.space/poster/medium/tt1787837/img",
+   "description": "Rotten Tomatoes 100%"
+  },
+  {
+   "id": "tt2901736",
+   "type": "movie",
+   "name": "Ilo Ilo",
+   "poster": "https://images.metahub.space/poster/medium/tt2901736/img",
+   "description": "Rotten Tomatoes 100%"
+  },
+  {
+   "id": "tt0050783",
+   "type": "movie",
+   "name": "Noce Cabirii",
+   "poster": "https://images.metahub.space/poster/medium/tt0050783/img",
+   "description": "Rotten Tomatoes 100%"
+  },
+  {
+   "id": "tt9614440",
+   "type": "movie",
+   "name": "Mickey and the Bear",
+   "poster": "https://images.metahub.space/poster/medium/tt9614440/img",
+   "description": "Rotten Tomatoes 100%"
+  },
+  {
+   "id": "tt5123896",
+   "type": "movie",
+   "name": "Scream, Queen! My Nightmare on Elm Street",
+   "poster": "https://images.metahub.space/poster/medium/tt5123896/img",
+   "description": "Rotten Tomatoes 100%"
+  },
+  {
+   "id": "tt1984135",
+   "type": "movie",
+   "name": "Coup 53",
+   "poster": "https://images.metahub.space/poster/medium/tt1984135/img",
+   "description": "Rotten Tomatoes 100%"
+  },
+  {
+   "id": "tt11394170",
+   "type": "movie",
+   "name": "Zakodowane uprzedzenie",
+   "poster": "https://images.metahub.space/poster/medium/tt11394170/img",
+   "description": "Rotten Tomatoes 100%"
+  },
+  {
+   "id": "tt0034240",
+   "type": "movie",
+   "name": "Podróże Sullivana",
+   "poster": "https://images.metahub.space/poster/medium/tt0034240/img",
+   "description": "Rotten Tomatoes 100%"
+  },
+  {
+   "id": "tt0022183",
+   "type": "movie",
+   "name": "Dziewczęta w mundurkach",
+   "poster": "https://images.metahub.space/poster/medium/tt0022183/img",
+   "description": "Rotten Tomatoes 100%"
+  },
+  {
+   "id": "tt0192335",
+   "type": "movie",
+   "name": "Mr. Death: The Rise and Fall of Fred A. Leuchter, Jr.",
+   "poster": "https://images.metahub.space/poster/medium/tt0192335/img",
+   "description": "Rotten Tomatoes 100%"
+  },
+  {
+   "id": "tt11614054",
+   "type": "movie",
+   "name": "Mayor",
+   "poster": "https://images.metahub.space/poster/medium/tt11614054/img",
+   "description": "Rotten Tomatoes 100%"
+  },
+  {
+   "id": "tt13567374",
+   "type": "movie",
+   "name": "Sabaya",
+   "poster": "https://images.metahub.space/poster/medium/tt13567374/img",
+   "description": "Rotten Tomatoes 100%"
+  },
+  {
+   "id": "tt9690328",
+   "type": "movie",
+   "name": "Paper Spiders",
+   "poster": "https://images.metahub.space/poster/medium/tt9690328/img",
+   "description": "Rotten Tomatoes 100%"
+  },
+  {
+   "id": "tt0071141",
+   "type": "movie",
+   "name": "Strach zżerać duszę",
+   "poster": "https://images.metahub.space/poster/medium/tt0071141/img",
+   "description": "Rotten Tomatoes 100%"
+  },
+  {
+   "id": "tt5938950",
+   "type": "movie",
+   "name": "Mystify: Michael Hutchence",
+   "poster": "https://images.metahub.space/poster/medium/tt5938950/img",
+   "description": "Rotten Tomatoes 100%"
+  },
+  {
+   "id": "tt13938338",
+   "type": "movie",
+   "name": "Woodlands Dark and Days Bewitched: A History of Folk Horror",
+   "poster": "https://images.metahub.space/poster/medium/tt13938338/img",
+   "description": "Rotten Tomatoes 100%"
+  },
+  {
+   "id": "tt14913282",
+   "type": "movie",
+   "name": "I Like Movies",
+   "poster": "https://images.metahub.space/poster/medium/tt14913282/img",
+   "description": "Rotten Tomatoes 100%"
+  },
+  {
+   "id": "tt5966990",
+   "type": "movie",
+   "name": "California Typewriter",
+   "poster": "https://images.metahub.space/poster/medium/tt5966990/img",
+   "description": "Rotten Tomatoes 100%"
+  },
+  {
+   "id": "tt0062229",
+   "type": "movie",
+   "name": "Samuraj",
+   "poster": "https://images.metahub.space/poster/medium/tt0062229/img",
+   "description": "Rotten Tomatoes 100%"
+  },
+  {
+   "id": "tt11394166",
+   "type": "movie",
+   "name": "A Thousand Cuts",
+   "poster": "https://images.metahub.space/poster/medium/tt11394166/img",
+   "description": "Rotten Tomatoes 100%"
+  },
+  {
+   "id": "tt27847051",
+   "type": "movie",
+   "name": "Tajny agent",
+   "poster": "https://images.metahub.space/poster/medium/tt27847051/img",
+   "description": "Rotten Tomatoes 99%"
+  },
+  {
+   "id": "tt10642834",
+   "type": "movie",
+   "name": "40-letnia raperka",
+   "poster": "https://images.metahub.space/poster/medium/tt10642834/img",
+   "description": "Rotten Tomatoes 99%"
+  },
+  {
+   "id": "tt6510332",
+   "type": "movie",
+   "name": "McQueen",
+   "poster": "https://images.metahub.space/poster/medium/tt6510332/img",
+   "description": "Rotten Tomatoes 99%"
+  },
+  {
+   "id": "tt12801356",
+   "type": "movie",
+   "name": "MLK/FBI",
+   "poster": "https://images.metahub.space/poster/medium/tt12801356/img",
+   "description": "Rotten Tomatoes 99%"
+  },
+  {
+   "id": "tt5375040",
+   "type": "movie",
+   "name": "Cameraperson",
+   "poster": "https://images.metahub.space/poster/medium/tt5375040/img",
+   "description": "Rotten Tomatoes 99%"
+  },
+  {
+   "id": "tt0032599",
+   "type": "movie",
+   "name": "Dziewczyna Piętaszek",
+   "poster": "https://images.metahub.space/poster/medium/tt0032599/img",
+   "description": "Rotten Tomatoes 99%"
+  },
+  {
+   "id": "tt9358052",
+   "type": "movie",
+   "name": "Knock Down the House",
+   "poster": "https://images.metahub.space/poster/medium/tt9358052/img",
+   "description": "Rotten Tomatoes 99%"
+  },
+  {
+   "id": "tt13065386",
+   "type": "movie",
+   "name": "Totally Under Control",
+   "poster": "https://images.metahub.space/poster/medium/tt13065386/img",
+   "description": "Rotten Tomatoes 99%"
+  },
+  {
+   "id": "tt9016016",
+   "type": "movie",
+   "name": "Saint Frances",
+   "poster": "https://images.metahub.space/poster/medium/tt9016016/img",
+   "description": "Rotten Tomatoes 99%"
+  },
+  {
+   "id": "tt12749596",
+   "type": "movie",
+   "name": "Host",
+   "poster": "https://images.metahub.space/poster/medium/tt12749596/img",
+   "description": "Rotten Tomatoes 99%"
+  },
+  {
+   "id": "tt9318280",
+   "type": "movie",
+   "name": "Driveways",
+   "poster": "https://images.metahub.space/poster/medium/tt9318280/img",
+   "description": "Rotten Tomatoes 99%"
+  },
+  {
+   "id": "tt0416991",
+   "type": "movie",
+   "name": "Moolaadé",
+   "poster": "https://images.metahub.space/poster/medium/tt0416991/img",
+   "description": "Rotten Tomatoes 99%"
+  },
+  {
+   "id": "tt1621444",
+   "type": "movie",
+   "name": "Bill Cunningham New York",
+   "poster": "https://images.metahub.space/poster/medium/tt1621444/img",
+   "description": "Rotten Tomatoes 99%"
+  },
+  {
+   "id": "tt11394650",
+   "type": "movie",
+   "name": "On the Record",
+   "poster": "https://images.metahub.space/poster/medium/tt11394650/img",
+   "description": "Rotten Tomatoes 99%"
+  },
+  {
+   "id": "tt0053198",
+   "type": "movie",
+   "name": "Bezustanne tarapaty",
+   "poster": "https://images.metahub.space/poster/medium/tt0053198/img",
+   "description": "Rotten Tomatoes 99%"
+  },
+  {
+   "id": "tt11394282",
+   "type": "movie",
+   "name": "Identifying Features",
+   "poster": "https://images.metahub.space/poster/medium/tt11394282/img",
+   "description": "Rotten Tomatoes 99%"
+  },
+  {
+   "id": "tt3754940",
+   "type": "movie",
+   "name": "Truman",
+   "poster": "https://images.metahub.space/poster/medium/tt3754940/img",
+   "description": "Rotten Tomatoes 99%"
+  },
+  {
+   "id": "tt7472352",
+   "type": "movie",
+   "name": "Shirkers",
+   "poster": "https://images.metahub.space/poster/medium/tt7472352/img",
+   "description": "Rotten Tomatoes 99%"
+  },
+  {
+   "id": "tt8331988",
+   "type": "movie",
+   "name": "The Chambermaid",
+   "poster": "https://images.metahub.space/poster/medium/tt8331988/img",
+   "description": "Rotten Tomatoes 99%"
+  },
+  {
+   "id": "tt0040522",
+   "type": "movie",
+   "name": "Złodzieje rowerów",
+   "poster": "https://images.metahub.space/poster/medium/tt0040522/img",
+   "description": "Rotten Tomatoes 99%"
+  },
+  {
+   "id": "tt11394184",
+   "type": "movie",
+   "name": "The Fight",
+   "poster": "https://images.metahub.space/poster/medium/tt11394184/img",
+   "description": "Rotten Tomatoes 99%"
+  },
+  {
+   "id": "tt2382298",
+   "type": "movie",
+   "name": "Life Itself",
+   "poster": "https://images.metahub.space/poster/medium/tt2382298/img",
+   "description": "Rotten Tomatoes 98%"
+  },
+  {
+   "id": "tt2370248",
+   "type": "movie",
+   "name": "Short Term 12",
+   "poster": "https://images.metahub.space/poster/medium/tt2370248/img",
+   "description": "Rotten Tomatoes 98%"
+  },
+  {
+   "id": "tt4972062",
+   "type": "movie",
+   "name": "Don't Think Twice",
+   "poster": "https://images.metahub.space/poster/medium/tt4972062/img",
+   "description": "Rotten Tomatoes 98%"
+  },
+  {
+   "id": "tt11416746",
+   "type": "movie",
+   "name": "Time",
+   "poster": "https://images.metahub.space/poster/medium/tt11416746/img",
+   "description": "Rotten Tomatoes 98%"
+  },
+  {
+   "id": "tt8879946",
+   "type": "movie",
+   "name": "Maiden",
+   "poster": "https://images.metahub.space/poster/medium/tt8879946/img",
+   "description": "Rotten Tomatoes 98%"
+  },
+  {
+   "id": "tt0067328",
+   "type": "movie",
+   "name": "Ostatni seans filmowy",
+   "poster": "https://images.metahub.space/poster/medium/tt0067328/img",
+   "description": "Rotten Tomatoes 98%"
+  },
+  {
+   "id": "tt7207238",
+   "type": "movie",
+   "name": "Jane",
+   "poster": "https://images.metahub.space/poster/medium/tt7207238/img",
+   "description": "Rotten Tomatoes 98%"
+  },
+  {
+   "id": "tt4157220",
+   "type": "movie",
+   "name": "Iris",
+   "poster": "https://images.metahub.space/poster/medium/tt4157220/img",
+   "description": "Rotten Tomatoes 98%"
+  },
+  {
+   "id": "tt8923482",
+   "type": "movie",
+   "name": "One Child Nation",
+   "poster": "https://images.metahub.space/poster/medium/tt8923482/img",
+   "description": "Rotten Tomatoes 98%"
+  },
+  {
+   "id": "tt8649186",
+   "type": "movie",
+   "name": "Boże Ciało",
+   "poster": "https://images.metahub.space/poster/medium/tt8649186/img",
+   "description": "Rotten Tomatoes 98%"
+  },
+  {
+   "id": "tt8269552",
+   "type": "movie",
+   "name": "Three Faces",
+   "poster": "https://images.metahub.space/poster/medium/tt8269552/img",
+   "description": "Rotten Tomatoes 98%"
+  },
+  {
+   "id": "tt6176928",
+   "type": "movie",
+   "name": "Whose Streets?",
+   "poster": "https://images.metahub.space/poster/medium/tt6176928/img",
+   "description": "Rotten Tomatoes 98%"
+  },
+  {
+   "id": "tt9845110",
+   "type": "movie",
+   "name": "Two of Us",
+   "poster": "https://images.metahub.space/poster/medium/tt9845110/img",
+   "description": "Rotten Tomatoes 98%"
+  },
+  {
+   "id": "tt0076263",
+   "type": "movie",
+   "name": "Killer of Sheep",
+   "poster": "https://images.metahub.space/poster/medium/tt0076263/img",
+   "description": "Rotten Tomatoes 98%"
+  },
+  {
+   "id": "tt0047528",
+   "type": "movie",
+   "name": "La strada",
+   "poster": "https://images.metahub.space/poster/medium/tt0047528/img",
+   "description": "Rotten Tomatoes 98%"
+  },
+  {
+   "id": "tt7875464",
+   "type": "movie",
+   "name": "Dziedziczki (film 2018)",
+   "poster": "https://images.metahub.space/poster/medium/tt7875464/img",
+   "description": "Rotten Tomatoes 98%"
+  },
+  {
+   "id": "tt0040725",
+   "type": "movie",
+   "name": "Czerwone trzewiki",
+   "poster": "https://images.metahub.space/poster/medium/tt0040725/img",
+   "description": "Rotten Tomatoes 98%"
+  },
+  {
+   "id": "tt0775566",
+   "type": "movie",
+   "name": "The War Tapes",
+   "poster": "https://images.metahub.space/poster/medium/tt0775566/img",
+   "description": "Rotten Tomatoes 98%"
+  },
+  {
+   "id": "tt5974388",
+   "type": "movie",
+   "name": "In Between",
+   "poster": "https://images.metahub.space/poster/medium/tt5974388/img",
+   "description": "Rotten Tomatoes 98%"
+  },
+  {
+   "id": "tt12094720",
+   "type": "movie",
+   "name": "City Hall",
+   "poster": "https://images.metahub.space/poster/medium/tt12094720/img",
+   "description": "Rotten Tomatoes 98%"
+  },
+  {
+   "id": "tt12137964",
+   "type": "movie",
+   "name": "Wszystko dla Jacksona",
+   "poster": "https://images.metahub.space/poster/medium/tt12137964/img",
+   "description": "Rotten Tomatoes 98%"
+  },
+  {
+   "id": "tt1391092",
+   "type": "movie",
+   "name": "Marwencol",
+   "poster": "https://images.metahub.space/poster/medium/tt1391092/img",
+   "description": "Rotten Tomatoes 98%"
+  },
+  {
+   "id": "tt7524414",
+   "type": "movie",
+   "name": "Beats",
+   "poster": "https://images.metahub.space/poster/medium/tt7524414/img",
+   "description": "Rotten Tomatoes 98%"
+  },
+  {
+   "id": "tt3717068",
+   "type": "movie",
+   "name": "Court",
+   "poster": "https://images.metahub.space/poster/medium/tt3717068/img",
+   "description": "Rotten Tomatoes 98%"
+  },
+  {
+   "id": "tt0037120",
+   "type": "movie",
+   "name": "Wielka nagroda",
+   "poster": "https://images.metahub.space/poster/medium/tt0037120/img",
+   "description": "Rotten Tomatoes 98%"
+  },
+  {
+   "id": "tt11379584",
+   "type": "movie",
+   "name": "Luzzu",
+   "poster": "https://images.metahub.space/poster/medium/tt11379584/img",
+   "description": "Rotten Tomatoes 98%"
+  },
+  {
+   "id": "tt4621016",
+   "type": "movie",
+   "name": "Ingrid Bergman: własnymi słowami",
+   "poster": "https://images.metahub.space/poster/medium/tt4621016/img",
+   "description": "Rotten Tomatoes 98%"
+  },
+  {
+   "id": "tt0100332",
+   "type": "movie",
+   "name": "Paryż Płonie",
+   "poster": "https://images.metahub.space/poster/medium/tt0100332/img",
+   "description": "Rotten Tomatoes 98%"
+  },
+  {
+   "id": "tt8726098",
+   "type": "movie",
+   "name": "Too Late to Die Young",
+   "poster": "https://images.metahub.space/poster/medium/tt8726098/img",
+   "description": "Rotten Tomatoes 98%"
+  },
+  {
+   "id": "tt10147546",
+   "type": "movie",
+   "name": "Homecoming: A Film by Beyoncé",
+   "poster": "https://images.metahub.space/poster/medium/tt10147546/img",
+   "description": "Rotten Tomatoes 98%"
+  }
+ ]
+}

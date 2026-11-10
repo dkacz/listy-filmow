@@ -1,6 +1,6 @@
 {
  "id": "pl.dkacz.katalogi-domowe",
- "version": "1.3.0",
+ "version": "1.4.0",
  "name": "Katalogi domowe",
  "description": "Domowe listy filmów i seriali.",
  "resources": [
@@ -72,6 +72,44 @@
    "type": "movie",
    "id": "sight-and-sound",
    "name": "Klasyka do nadrobienia (Sight and Sound 2022)",
+   "extra": [
+    {
+     "name": "genre",
+     "options": [
+      "Metacritic",
+      "Rotten Tomatoes",
+      "Chronologicznie"
+     ],
+     "isRequired": false
+    }
+   ],
+   "extraSupported": [
+    "genre"
+   ]
+  },
+  {
+   "type": "movie",
+   "id": "top-metacritic",
+   "name": "Najwyżej oceniane według Metacritic",
+   "extra": [
+    {
+     "name": "genre",
+     "options": [
+      "Metacritic",
+      "Rotten Tomatoes",
+      "Chronologicznie"
+     ],
+     "isRequired": false
+    }
+   ],
+   "extraSupported": [
+    "genre"
+   ]
+  },
+  {
+   "type": "movie",
+   "id": "top-rotten",
+   "name": "Najwyżej oceniane według Rotten Tomatoes",
    "extra": [
     {
      "name": "genre",
