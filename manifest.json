@@ -1,0 +1,35 @@
+{
+ "id": "pl.dkacz.katalogi-domowe",
+ "version": "1.0.0",
+ "name": "Katalogi domowe",
+ "description": "Domowe listy filmów i seriali.",
+ "resources": [
+  "catalog"
+ ],
+ "types": [
+  "movie",
+  "series"
+ ],
+ "catalogs": [
+  {
+   "type": "movie",
+   "id": "kolekcja-filmy",
+   "name": "Kino ambitne: moja kolekcja"
+  },
+  {
+   "type": "series",
+   "id": "seriale-ambitne",
+   "name": "Seriale ambitne"
+  },
+  {
+   "type": "series",
+   "id": "dzieci-seriale",
+   "name": "Dla dzieci: seriale z polskim dubbingiem"
+  },
+  {
+   "type": "movie",
+   "id": "dzieci-filmy",
+   "name": "Dla dzieci: filmy z polskim dubbingiem"
+  }
+ ]
+}
