@@ -1,6 +1,6 @@
 {
  "id": "pl.dkacz.katalogi-domowe",
- "version": "1.0.0",
+ "version": "1.1.0",
  "name": "Katalogi domowe",
  "description": "Domowe listy filmów i seriali.",
  "resources": [
@@ -20,6 +20,16 @@
    "type": "series",
    "id": "seriale-ambitne",
    "name": "Seriale ambitne"
+  },
+  {
+   "type": "movie",
+   "id": "sight-and-sound",
+   "name": "Klasyka do nadrobienia (Sight and Sound 2022)"
+  },
+  {
+   "type": "movie",
+   "id": "kino-polskie",
+   "name": "Klasyka kina polskiego"
   },
   {
    "type": "series",
